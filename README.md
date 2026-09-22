@@ -16,3 +16,5 @@ develop -> rama_nombre
 
 - Al terminar un item se revisan los cambios y se hace pull request a main para tener control en caso de fallos posteriores.
 - Se puede usar github desktop para mayor facilidad.
+
+**ACLARACION PARA PR**: En github al hacer commit en tu rama va a aparecer un cuadrado naranja con el texto "compare and pull request" al hacer click debes fijarte que base:develop y compare:rama_tu_nombre
