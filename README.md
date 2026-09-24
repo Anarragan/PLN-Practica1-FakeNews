@@ -18,3 +18,10 @@ develop -> rama_nombre
 - Se puede usar github desktop para mayor facilidad.
 
 **ACLARACION PARA PR**: En github al hacer commit en tu rama va a aparecer un cuadrado naranja con el texto "compare and pull request" al hacer click debes fijarte que base:develop y compare:rama_tu_nombre
+
+### Estado de la rama:
+- [x] Obtener el conjunto de 50 .txt provenientes por web scraping
+- [x] Almacenarlos en dos carpetas de verdadero y falso
+- [ ] Conseguir las 5000 muestras de la fuente 2 (aleatoria y balanceada)
+- [ ] Calcular las metricas
+

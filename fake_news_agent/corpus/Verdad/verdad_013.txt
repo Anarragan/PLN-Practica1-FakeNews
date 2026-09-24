@@ -1,0 +1,32 @@
+La polémica en Francia por el autor al que acusan de haber escrito con IA su premiada novela
+
+Fuente de la imagen, Joel Saget / AFP via Getty Images
+El panorama de la literatura en Francia está conmocionado después de que se acusara a un autor canadiense-haitiano, considerado una promesa del género, de usar inteligencia artificial (IA) para escribir su primera novela.
+Thélyson Orélien, de 38 años, acaba de recibir el Premio de Novela Fnac, el primero de la temporada de galardones literarios, por su obra C'était ça ou mourir ("Era eso o morir").
+También es finalista de los premios anuales más prestigiosos de la lengua francesa, el Goncourt y el Renaudot, que se entregarán próximamente.
+Pero el martes, un grupo poco conocido llamado Balance ton Claude ("Denuncia a tu Claude", en referencia al asistente de IA de Anthropic) dijo que el libro fue escrito "casi en su totalidad" por IA, una acusación que el autor negó después.
+"Probamos varios pasajes, de diferentes partes del manuscrito, y llegamos al mismo resultado: 100% IA", dijo el grupo en X.
+Según el grupo, de cuyos miembros se sabe muy poco, la detección fue realizada por un programa llamado Pangram, que, según afirman, es "de lejos el más preciso", con una probabilidad casi insignificante de cometer un error.
+Orélien, que nació en Haití y se mudó a Montreal en 2010, negó inmediatamente la acusación.
+"Siempre me han apasionado la creación y la literatura. No veo por qué me sentiría obligado a usar una máquina", le dijo al periódico Libération. Añadió que está "recopilando un expediente" con su editor para demostrar que él fue el autor auténtico del libro.
+"Mis tradiciones son haitianas y caribeñas. Las imágenes, las repeticiones y los ritmos son la palabra viva, son míos", defendió.
+Todas las noticias que necesitas están en BBC World Service
+La editorial Grasset también salió en su defensa, diciendo que las acusaciones "son terriblemente perjudiciales para un escritor con una historia de vida excepcional", cuya "obra de creación es original y poderosa".
+La novela narra la historia de un profesor que huye de la violencia de las pandillas en Haití y sus aventuras antes de llegar finalmente a Canadá, donde redescubre "el derecho a respirar sin miedo".
+La polémica recuerda la controversia en torno a "La serpiente en la arboleda", del escritor trinitense Jamir Nazir, cuyo premio de cuento de la Commonwealth fue retirado inicialmente en julio por las acusaciones de que había sido escrito con inteligencia artificial generativa.
+Luego el premio fue otorgado de nuevo, después de que los organizadores declararan estar satisfechos con la autenticidad del escrito.
+Los críticos de Pangram y otras herramientas de detección de IA alegan que no son fiables, porque diferentes programas tienden a dar resultados distintos cuando analizan los mismos textos.
+Estas herramientas no saben quién ni qué escribió un texto. En cambio, buscan patrones comunes en la escritura generada por IA, pero esos patrones también pueden aparecer en textos escritos por humanos.
+Las investigaciones han revelado que los detectores de IA pueden marcar erróneamente la escritura humana como generada por IA y, también, pasar por alto textos producidos por inteligencia artificial, especialmente si han sido editados o parafraseados.
+Algunos también afirman que los programas están diseñados en torno al uso de un lenguaje estandarizado (inglés o francés) y, por lo tanto, no pueden interpretar con precisión textos que utilizan lenguas de lugares como el Caribe.
+Pero los escritores de Balance ton Claude afirmaron que se ha demostrado que Pangram solo se equivoca al interpretar un texto generado por IA una vez de cada 24.400.
+Los detectores más recientes ya no comparan texto con texto para comprobar si hay plagio.
+En cambio, analizan probabilidades y estadísticas para ver si ciertos patrones lingüísticos delatan el uso de inteligencia artificial.
+A medida que la IA se normaliza cada vez más, la polémica en torno a la novela alimentará el debate sobre qué combinación de creatividad humana e IA se considera aceptable: es perfectamente posible que los escritores generen IA y luego la adapten, o, a la inversa, que escriban un texto original y luego le pidan a la IA que lo revise.
+Orélien nació en 1988 en la ciudad de Gonaïves, en el norte de Haití.
+Su primera obra, antes de abandonar su país natal, consistió principalmente en textos poéticos, y más tarde, en Canadá, trabajó como periodista.
+La novela, descrita por su editorial canadiense como el mayor éxito de ventas en 60 años, se traducirá a unos 20 idiomas.
+Orélien declaró al diario Libération que el primer borrador del libro se escribió en 2019, mucho antes de que los programas de IA para generar texto estuvieran disponibles para el público en general.
+Este artículo fue escrito originalmente en inglés y usamos una herramienta de inteligencia artificial para traducirlo. Un periodista de la BBC revisó el texto antes de su publicación. Más información sobre cómo usamos IA.
+Para ver este contenido, favor activar JavaScript, o intentar con otro navegador
+© 2026 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

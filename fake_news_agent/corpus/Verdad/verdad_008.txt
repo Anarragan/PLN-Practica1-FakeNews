@@ -1,0 +1,30 @@
+Australia denuncia el primer hackeo conocido de un agente de IA a una web gubernamental
+
+Fuente de la imagen, Hilary Wardhaugh / Getty
+El primer ministro de Australia, Anthony Albanese, afirmó este jueves que un agente de inteligencia artificial desarrollado por OpenAI "se infiltró" en un portal de estadísticas del gobierno australiano.
+El agente accedió sin autorización a la web que contenía datos "no confidenciales" de Medicare, el sistema público de salud de Australia.
+Según Albanese, otros tres sistemas del gobierno podrían haber sido atacados.
+La brecha de seguridad ocurrió en junio, pero OpenAI solo se percató de ello en agosto y no lo informó al gobierno hasta el 10 de septiembre, según Albanese.
+OpenAI sostiene que no hay indicios de que se haya accedido a expedientes médicos de pacientes.
+En un comunicado, la compañía afirmó que la brecha de seguridad se detectó durante una "revisión exhaustiva" sobre "actividad no alineada del modelo".
+"Durante esta revisión, identificamos actividad que involucraba varios sitios web y servicios del gobierno australiano, mientras nuestros modelos intentaban buscar respuestas y estadísticas disponibles para preguntas sobre Australia durante una evaluación interna. En el transcurso de esto, nuestros modelos realizaron acciones que no teníamos previstas", dijo la compañía.
+Albanese señaló que mantuvo una "conversación muy franca" sobre el incidente con el director ejecutivo de OpenAI, Sam Altman.
+Todas las noticias que necesitas están en BBC World Service
+"Hoy hablé con el director ejecutivo de OpenAI, Sam Altman, para expresarle la extrema preocupación de Australia por este incidente, y también le manifesté mi decepción por el hecho de que la empresa haya tardado demasiado tiempo en informar al gobierno sobre lo ocurrido y porque la forma en que se realizó esa notificación fue, asimismo, inaceptable", dijo Albanese, que se encuentra estos días en Nueva York para asistir a la Asamblea General de Naciones Unidas.
+Tras el ciberataque contra Medicare, el gobierno de Australia anunció una revisión urgente de su marco de gestión de la inteligencia artificial .
+Según un comunicado oficial, la revisión evaluará si la legislación y los sistemas de gobernanza actuales son "adecuados para prevenir y responder a incidentes cibernéticos relacionados con la IA".
+El Departamento del Primer Ministro y del Gabinete también examinará los mecanismos de intercambio de información con empresas del sector y con otros países de la Mancomunidad de Naciones (Commonwealth).
+De acuerdo con el gobierno australiano, las conclusiones "servirán de base" para establecer una estrategia más amplia sobre la regulación y el uso de la inteligencia artificial.
+Según OpenAI su modelo accedió a "archivos en algunas páginas y servicios del gobierno australiano", entre ellos una página que contiene datos no públicos de Medicare, el sistema de salud de Australia.
+La compañía dijo que el modelo buscaba estadísticas e información sobre sistemas de salud.
+Expertos consultados por la BBC dijeron que es el primer ataque de un modelo de inteligencia artificial a una web gubernamental del que se tiene noticia en el mundo.
+Según el gobierno australiano, los datos a los que accedió el agente de OpenAI no son sensibles, pero aún así protestó por lo ocurrido y por cómo manejo la compañía de Altman el incidente.
+Aunque ocurrió en junio, la compañía dijo que no lo descubrió hasta agosto y que entonces informó con un correo electrónico enviado a una dirección general para consultas ciudadanas de una agencia del gobierno.
+La Agencia de Ciberseguridad de Australia fue informada días después.
+El incidente de Australia llega en un momento de creciente preocupación por los peligros potenciales del desarrollo de la inteligencia artificial y cuando se han conocido una serie de hackeos perpetrados por agentes.
+OpenAI reveló que algunos de sus modelos avanzados escaparon del entorno controlado de pruebas y atacaron varias compañías, incluida Hugging Face, también especializada en servicios de IA.
+Otras firmas estadounidenses, como Anthropic reportaron episodios similares, alentando el temor de que el desarrollo de esta nueva tecnología pueda volverse contra la humanidad.
+Y destacados directivos de las compañías líderes en el sector, como el propio Altman o Amodei, jefe de Anthropic, han pedido ralentizar su desarrollo y que se establezcan mecanismos de control y supervisión.
+Pero el presidente de Estados Unidos, Donald Trump, se ha mostrado en contra de regular la IA a nivel global.
+Para ver este contenido, favor activar JavaScript, o intentar con otro navegador
+© 2026 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.
