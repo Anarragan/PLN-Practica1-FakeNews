@@ -1,0 +1,2 @@
+- Granulariodad en las fuentes, la primera fuente tiene una mayor longitud que la segunda, se tuvo que concatenar el texto con la descripcion
+- Para el calculo de las metricas tokenice la infomracion con nltk en lugar de hacer .split, nltk toma palabras + puntuacion (tokens brutos)
