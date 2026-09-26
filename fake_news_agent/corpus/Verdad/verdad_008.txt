@@ -1,30 +1,55 @@
-Australia denuncia el primer hackeo conocido de un agente de IA a una web gubernamental
+"Uno de los grandes misterios de la ciencia": lo que la anestesia general revela sobre cómo funciona nuestro cerebro
 
-Fuente de la imagen, Hilary Wardhaugh / Getty
-El primer ministro de Australia, Anthony Albanese, afirmó este jueves que un agente de inteligencia artificial desarrollado por OpenAI "se infiltró" en un portal de estadísticas del gobierno australiano.
-El agente accedió sin autorización a la web que contenía datos "no confidenciales" de Medicare, el sistema público de salud de Australia.
-Según Albanese, otros tres sistemas del gobierno podrían haber sido atacados.
-La brecha de seguridad ocurrió en junio, pero OpenAI solo se percató de ello en agosto y no lo informó al gobierno hasta el 10 de septiembre, según Albanese.
-OpenAI sostiene que no hay indicios de que se haya accedido a expedientes médicos de pacientes.
-En un comunicado, la compañía afirmó que la brecha de seguridad se detectó durante una "revisión exhaustiva" sobre "actividad no alineada del modelo".
-"Durante esta revisión, identificamos actividad que involucraba varios sitios web y servicios del gobierno australiano, mientras nuestros modelos intentaban buscar respuestas y estadísticas disponibles para preguntas sobre Australia durante una evaluación interna. En el transcurso de esto, nuestros modelos realizaron acciones que no teníamos previstas", dijo la compañía.
-Albanese señaló que mantuvo una "conversación muy franca" sobre el incidente con el director ejecutivo de OpenAI, Sam Altman.
+Fuente de la imagen, BBC / Serenity Strull / Getty
+El funcionamiento de los anestésicos generales sigue sin entenderse por completo, pero su estudio está revelando pistas sobre la naturaleza de la consciencia.
+En 1797, al célebre almirante británico Horatio Nelson le amputaron el brazo derecho. La operación le salvó la vida. Pero, según la leyenda, el único anestésico que le ofrecieron fue un trago de ron.
+Durante la mayor parte de la historia de la humanidad, incluso la amputación de extremidades se realizaba con los pacientes completamente despiertos.
+La introducción de la anestesia general en 1846 supuso una auténtica revolución. De pronto era posible desconectar temporalmente la consciencia de cualquier persona en cualquier momento y lugar. Nelson podría haberse sometido a la amputación y aun así haberse presentado a desayunar al día siguiente.
+Hoy se practican más de 350 millones de intervenciones quirúrgicas cada año bajo anestesia general. Sin embargo, todavía no está del todo claro cómo estos misteriosos fármacos nos sumen en la inconsciencia.
+Las pistas que están surgiendo ahora ayudan a los científicos a comprender mejor el funcionamiento fundamental del cerebro. Incluso apuntan al origen mismo de la consciencia.
+Existen varias categorías de anestésicos. Algunos actúan bloqueando directamente el dolor, mientras que otros provocan somnolencia y relajación. Los anestésicos generales van un paso más allá. Estos fármacos inducen la inconsciencia, de modo que la persona pierde por completo la percepción de lo que sucede a su alrededor.
+Existen numerosos anestésicos capaces de inducir un estado de inconsciencia. Van desde gases aparentemente inertes, como el xenón —que rara vez se utiliza en la práctica clínica—, hasta el propofol, el anestésico general más empleado en la actualidad.
+Los anestésicos generales pueden presentar estructuras químicas muy distintas entre sí. En todos los casos, sin embargo, el efecto global consiste en interferir en la comunicación entre las neuronas del cerebro, impidiendo que estas intercambien señales entre sí.
+Lo que las imágenes por resonancia magnética (IRM) muestran con claridad es una reducción generalizada de la actividad cerebral.
+Sin embargo, se entiende mucho menos cómo esa reducción de actividad logra sumir a un paciente en la inconsciencia.
+Para empezar, todavía no está claro si el estado de inconsciencia inducido por los anestésicos requiere una desconexión total de todo el cerebro o si algunas regiones cerebrales desempeñan un papel más importante que otras.
 Todas las noticias que necesitas están en BBC World Service
-"Hoy hablé con el director ejecutivo de OpenAI, Sam Altman, para expresarle la extrema preocupación de Australia por este incidente, y también le manifesté mi decepción por el hecho de que la empresa haya tardado demasiado tiempo en informar al gobierno sobre lo ocurrido y porque la forma en que se realizó esa notificación fue, asimismo, inaceptable", dijo Albanese, que se encuentra estos días en Nueva York para asistir a la Asamblea General de Naciones Unidas.
-Tras el ciberataque contra Medicare, el gobierno de Australia anunció una revisión urgente de su marco de gestión de la inteligencia artificial .
-Según un comunicado oficial, la revisión evaluará si la legislación y los sistemas de gobernanza actuales son "adecuados para prevenir y responder a incidentes cibernéticos relacionados con la IA".
-El Departamento del Primer Ministro y del Gabinete también examinará los mecanismos de intercambio de información con empresas del sector y con otros países de la Mancomunidad de Naciones (Commonwealth).
-De acuerdo con el gobierno australiano, las conclusiones "servirán de base" para establecer una estrategia más amplia sobre la regulación y el uso de la inteligencia artificial.
-Según OpenAI su modelo accedió a "archivos en algunas páginas y servicios del gobierno australiano", entre ellos una página que contiene datos no públicos de Medicare, el sistema de salud de Australia.
-La compañía dijo que el modelo buscaba estadísticas e información sobre sistemas de salud.
-Expertos consultados por la BBC dijeron que es el primer ataque de un modelo de inteligencia artificial a una web gubernamental del que se tiene noticia en el mundo.
-Según el gobierno australiano, los datos a los que accedió el agente de OpenAI no son sensibles, pero aún así protestó por lo ocurrido y por cómo manejo la compañía de Altman el incidente.
-Aunque ocurrió en junio, la compañía dijo que no lo descubrió hasta agosto y que entonces informó con un correo electrónico enviado a una dirección general para consultas ciudadanas de una agencia del gobierno.
-La Agencia de Ciberseguridad de Australia fue informada días después.
-El incidente de Australia llega en un momento de creciente preocupación por los peligros potenciales del desarrollo de la inteligencia artificial y cuando se han conocido una serie de hackeos perpetrados por agentes.
-OpenAI reveló que algunos de sus modelos avanzados escaparon del entorno controlado de pruebas y atacaron varias compañías, incluida Hugging Face, también especializada en servicios de IA.
-Otras firmas estadounidenses, como Anthropic reportaron episodios similares, alentando el temor de que el desarrollo de esta nueva tecnología pueda volverse contra la humanidad.
-Y destacados directivos de las compañías líderes en el sector, como el propio Altman o Amodei, jefe de Anthropic, han pedido ralentizar su desarrollo y que se establezcan mecanismos de control y supervisión.
-Pero el presidente de Estados Unidos, Donald Trump, se ha mostrado en contra de regular la IA a nivel global.
+"Incluso si todo el cerebro se apaga, como está tan interconectado, resulta muy difícil aislar qué desencadenó esa desconexión global", explica Nick Franks, profesor de Biofísica y Anestesiología en el Imperial College de Londres.
+"Si observamos las imágenes cerebrales, queda claro que existen determinadas regiones más sensibles que se desactivan primero, y eso plantea la pregunta de si son esas regiones las que desencadenan después el apagado general", agrega.
+Franks señala el tálamo, una estructura con forma de huevo situada en las profundidades del cerebro que actúa como centro de conexión entre distintas regiones cerebrales.
+Esta zona parece reducir su actividad antes que otras cuando una persona recibe anestesia general. El tálamo desempeña un papel crucial, entre otras funciones, en el inicio y mantenimiento del sueño. ¿Significa eso que los anestésicos actúan "secuestrando" los circuitos cerebrales naturales del sueño?
+"Si administras anestesia a un animal y luego estimulas una parte muy específica del tálamo, puedes despertarlo", afirma Franks.
+"Los estudios también muestran que algunas personas en coma pueden despertar mediante estimulación talámica. Por tanto, se trata de una región esencial para el estado de vigilia", agrega. Sin embargo, hacen falta más investigaciones para determinar si ese es realmente el mecanismo que entra en juego.
+Otros científicos creen que la corteza cerebral —la capa externa y plegada del cerebro— constituye el principal "hogar de la consciencia" y que, por tanto, es ahí donde los anestésicos ejercen sus efectos más importantes.
+Pero también hay otras regiones implicadas. Entre ellas figuran los lóbulos frontal y parietal. El primero se encuentra detrás de la frente y participa en numerosas funciones cognitivas de alto nivel, como el pensamiento crítico.
+El segundo está situado más atrás y se encarga de procesar información sensorial, como el tacto.
+Pero están surgiendo indicios de que nuestro cerebro podría ser capaz de alcanzar un estado intermedio de consciencia, que no se corresponde ni con el sueño ni con la vigilia.
+Para la mayoría de las personas, la anestesia general implica una pérdida total de la consciencia y, por tanto, de cualquier recuerdo de lo sucedido. Pero no siempre ocurre así.
+Se calcula que aproximadamente uno de cada 15.000 pacientes sometidos a cirugía puede recordar aspectos de la intervención tras despertarse, un fenómeno conocido como conciencia accidental durante la anestesia.
+Jaideep Pandit, anestesista consultor de los Hospitales de la Universidad de Oxford, cree que estas personas experimentan un "tercer estado" de consciencia, situado en algún punto entre el sueño y la vigilia, o entre la consciencia y la inconsciencia.
+En sus experimentos, Pandit administró la anestesia junto con un relajante muscular, pero utilizó un torniquete para evitar que el relajante paralizara el antebrazo.
+Esto permitía que los pacientes inconscientes movieran la mano si así lo deseaban. Descubrió que un tercio de los pacientes era capaz de apretar los dedos del investigador cuando se les daba una orden, a pesar de no mostrar señales de estar despiertos ni de sentir dolor durante la cirugía.
+Según Pandit, estos resultados sugieren la existencia de un tercer nivel de consciencia.
+El llamado "problema difícil" de la consciencia sigue siendo uno de los grandes misterios sin resolver de la ciencia. Pero estudiar qué cambia cuando perdemos esa capacidad está ayudando a desvelar algunos de sus secretos.
+Aunque el sueño normal también implica una pérdida de consciencia, los anestésicos generales permiten desconectarla en cualquier momento, lo que facilita mucho su estudio.
+Tomemos como ejemplo el carácter único de nuestras experiencias conscientes. En general, se acepta que la experiencia consciente de cada persona o animal es completamente subjetiva y exclusiva.
+Andrea Luppi, neurocientífico de la Universidad de Cambridge, investigó si los anestésicos generales pueden arrojar luz sobre cómo funciona este fenómeno. Para ello estudió cerebros de personas bajo anestesia general mediante resonancias magnéticas funcionales (fMRI).
+Esta tecnología permite registrar el flujo sanguíneo cerebral y observar el efecto que tienen estos fármacos.
+Luppi se interesó especialmente por la denominada "conectividad funcional", una medida de la capacidad de distintas regiones del cerebro para comunicarse y coordinar su actividad.
+Normalmente, este tipo de actividad neuronal sigue un patrón tan singular que puede actuar como una especie de "huella dactilar" para identificar a una persona.
+Sin embargo, Luppi y sus colegas descubrieron que, bajo anestesia, los cerebros individuales se volvían menos "únicos" y más parecidos entre sí.
+De forma intrigante, el cerebro humano anestesiado también se diferenciaba menos de los cerebros de otros primates, lo que sugiere que las regiones cerebrales más afectadas por la anestesia son aquellas que surgieron más recientemente en términos evolutivos.
+Luppi cree que una característica fundamental de la anestesia es que impide la comunicación entre regiones cerebrales distantes.
+Durante la vigilia, distintas áreas pueden interactuar incluso sin estar conectadas de manera directa. Sin embargo, este fenómeno es muy poco frecuente en el cerebro anestesiado, donde parecen comunicarse únicamente las regiones que mantienen conexiones directas.
+"Durante la vigilia, el flujo de la consciencia guía la secuencia de patrones cerebrales por los que transitamos", escribió Luppi en un comentario publicado en 2024.
+Bajo anestesia, en cambio, la actividad cerebral pierde ese rumbo, explica el experto.
+Los hallazgos de Luppi encajan con la idea de que la consciencia no surge de la actividad de una región concreta del cerebro. Más bien, sería el resultado de una red: un fenómeno emergente que nace de la coordinación entre distintos centros cerebrales. Algo parecido a paralizar un gobierno al colapsar los sistemas de comunicación de un país.
+Luppi también cree que los anestésicos generales podrían arrojar luz sobre la forma en que sustancias psicodélicas como el LSD o la psilocibina (los llamados "hongos alucinógenos") alteran la consciencia.
+Mientras que los anestésicos reducen la comunicación entre distintas regiones del cerebro, los psicodélicos parecen provocar el efecto contrario: inducen al cerebro a abrir nuevas vías de comunicación.
+Aun así, todavía queda mucho por aprender sobre dónde reside exactamente la consciencia en el cerebro humano.
+"Nuestro conocimiento sobre la consciencia es bastante rudimentario", afirma Boris Heifets, profesor asociado de Anestesiología, Medicina Perioperatoria y Tratamiento del Dolor en la Universidad de Stanford, en California.
+"Así que, si encuentra a alguien capaz de explicar cómo funciona la experiencia consciente, por favor avíseme. Me encantaría hablar con esa persona."`
+*Todo el contenido de este artículo se ofrece únicamente con fines informativos generales y no debe considerarse un sustituto del asesoramiento médico de profesionales sanitarios.
+Este artículo fue escrito originalmente en inglés y usamos una herramienta de inteligencia artificial para traducirlo. Un periodista de la BBC revisó el texto antes de su publicación. Más información sobre cómo usamos IA.
 Para ver este contenido, favor activar JavaScript, o intentar con otro navegador
 © 2026 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

@@ -1,58 +1,67 @@
-Por qué las guacamayas rojas dejan morir a sus crías y cómo una científica peruana intenta salvarlas
+Qué son los agentes de la IA, los poderosos sistemas que realizaron en Australia el "primer ataque" a un portal de un gobierno
 
-Las guacamayas rojas son aves tropicales emblemáticas cuyas poblaciones están disminuyendo. Para cambiar el destino de la especie, los científicos están trabajando para contrarrestar un método de crianza letal que condena a muchas crías a la muerte.
-Parker ni siquiera había abierto los ojos cuando una mano lo arrebató de su nido.
-Era una mañana de lunes de noviembre de 2018 en la Reserva Nacional de Tambopata, en lo profundo de la Amazonía peruana; la cría, todavía sin plumas, estaba débil y baja de peso, apenas más larga que un dedo medio. Era el menor de cuatro hermanos y, por ello, estaba casi con toda seguridad condenado a morir de hambre.
-Al pie del árbol se encontraba Gabriela Vigo-Trauco, la científica peruana que orquestó este rescate.
-Después de estudiar a estas aves por más de dos décadas, Vigo-Trauco había descubierto que las guacamayas rojas dejan morir de hambre a sus crías más jóvenes a propósito.
-La científica de la Universidad Texas A&M pudo comprobar que casi ninguna de las terceras y cuartas crías en nidadas de varios huevos sobrevive, y que alrededor del 25% de las segundas crías sufre la misma suerte.
-Este método de crianza brutal fue, en su momento, una estrategia de supervivencia.
-Ahora, se ha convertido en un obstáculo importante para la recuperación de esta especie en declive, víctima de la caza furtiva y la tala, las cuales han llevado a una de sus subespecies al borde de la extinción en todo México y Centroamérica.
-En 2017, Vigo-Trauco puso en marcha una misión de rescate muy poco habitual, y fue gracias a esa estrategia que dio con el polluelo al que le dio el nombre de Parker.
-Su objetivo era reclutar parejas de guacamayos rojos silvestres para que actuaran como padres adoptivos de las crías condenadas.
-Al convencer a las aves silvestres de asumir esta tarea, esperaba probar una nueva vía de salvación para las crías desatendidas de Perú, y para la especie en su conjunto.
+Ante un objetivo, evalúan soluciones y deciden cuál es la mejor, planifican, se coordinan y la ejecutan con enorme eficacia. Enormísima. Tanto, que preocupan a muchos expertos.
+Se llaman agentes de inteligencia artificial (IA) y aunque a nivel técnico no existe una definición única de qué son, un consenso es que son sistemas que pueden pensar, actuar, iterar (autocorregirse).
+Su nivel de autonomía es tal que, según algunos expertos, incluso podrían acceder por su cuenta a sistemas que contienen datos sensibles.
+El primer ministro de ese país, Anthony Albanese, afirmó este jueves que un agente de IA desarrollado por OpenAI "se infiltró" en un portal de estadísticas del gobierno.
+Según explicó, el sistema accedió sin autorización a una web que contenía datos "no confidenciales" de Medicare, el sistema público de salud del país.
+Albanese añadió que otros tres sistemas gubernamentales podrían haberse visto afectados, aunque no ofreció más detalles.
+La brecha de seguridad ocurrió en junio, pero OpenAI no la detectó hasta agosto y no informó al gobierno australiano hasta el 10 de septiembre.
 Todas las noticias que necesitas están en BBC World Service
-Es imposible no ver a las guacamayas rojas. Su plumaje carmesí resalta sobre el verde del bosque, y sus graznidos se escuchan mucho antes de verlas.
-Cada hembra puede poner hasta cuatro huevos por temporada, pero por lo general solo una o dos crías llegan a volar fuera del nido.
-"Los padres, y en particular la madre, dejaban de lado [al más pequeño]", afirma Vigo-Trauco, codirectora de The Macaw Society, una organización peruana de conservación que reveló este comportamiento tras instalar cámaras en los nidos en 2007.
-"El polluelo pasa frío y grita; cuando llega el padre, alimenta a la madre y a las [primeras y segundas] crías, pero deja al tercero gritando".
-No se observó acoso entre hermanos ni que estuviera relacionado con la disponibilidad de alimentos en el área. Entonces, ¿por qué descuidan los padres a sus crías más pequeñas?
-Vigo-Trauco opina que a los padres les resulta difícil atender a crías que se encuentran en etapas de desarrollo distintas. Incluso una diferencia de cuatro o cinco días en la eclosión puede ser determinante, porque los polluelos necesitan regímenes de alimentación, hasta temperaturas de nido, muy distintas.
-Los padres se ven obligados a elegir, explica. Si se esfuerzan demasiado por alimentarlos a todos, corren el riesgo de que ninguno sobreviva.
-Para las poblaciones relativamente saludables de guacamayas rojas de la Amazonía peruana, la pérdida de los polluelos más jóvenes tiene menos repercusiones.
-Pero en países donde los conservacionistas pelean en contra de cazadores furtivos y madereros por la supervivencia de cada ave, Vigo-Trauco dice que la muerte de así sea un puñado de polluelos es un desastre.
-Fuente de la imagen, Gabriela Vigo-Trauco/ The Macaw Society
-Criar a mano a los polluelos rechazados es una solución posible.
-Sin embargo, pueden pasar entre un mes y medio y tres meses hasta que puedan emprender el vuelo.
-Además, los loros criados en cautividad tienen tasas de supervivencia notoriamente bajas: les cuesta alimentarse en libertad, identificar a los depredadores y formar bandadas.
-Por eso es que el equipo de Vigo-Trauco recurrió a la idea de usar padres adoptivos silvestres.
-Después de capturar a Parker en 2018, el equipo de Vigo-Trauco lo alimentó a mano en su estación de campo durante tres semanas, siguiendo un horario riguroso de intervalos de dos horas.
-Igualmente, examinaron los nidos del bosque para encontrarle al polluelo una familia adoptiva adecuada que le enseñara a desenvolverse como un ave silvestre.
-Esta técnica había sido probada anteriormente por avicultores que criaban guacamayas en cautividad —entorno donde las condiciones están controladas y el intercambio de nidos implica simplemente cruzar un pasillo con el polluelo—, y también se basa en experimentos realizados con otras aves silvestres, como las cotorras hombroamarillo en Venezuela durante la década de 1990.
-Finalmente, el 22 de diciembre se puso a Parker en un nido nuevo y su madre adoptiva, Tambo, empezó a acicalarlo de inmediato.
-Pocos meses después, pudo emprender el vuelo. Fue apenas el cuarto polluelo en conseguirlo después de décadas de observaciones de nidos silvestres en Tambopata.
-El equipo obtuvo resultados parecidos con otros 25 polluelos rescatados entre 2017 y 2019.
-Otros tres fueron adoptados con éxito, pero no lograron independizarse (ya que murieron a causa de un rayo, un depredador y una enfermedad).
-Ya en 2019, Vigo-Trauco se sentía más segura: "Me sentía como si estuviera jugando ajedrez: moviéndome de un lado a otro para ver qué era posible".
-Aunque la crianza en condiciones silvestres facilita el avance, trae consigo muchos desafíos.
-Durante su experimento de tres años en Tambopata, Vigo-Trauco pudo contar con fondos suficientes para cubrir los salarios, el alojamiento y el equipo de un equipo de 20 personas.
-Pero dice que que una iniciativa así de ambiciosa "no es fácil de replicar".
-Además, es una tarea difícil de llevar a cabo.
-Rony García-Anleu es director de investigación biológica de la Wildlife Conservation Society en Guatemala.
-Fue pionero en la implementación del método de adopción en las últimas poblaciones de guacamaya roja que quedan en el país y coautor del artículo de Vigo-Trauco sobre la crianza por padres adoptivos.
-Sin embargo, la última vez que el equipo de García-Anleu introdujo un ave en un nido de acogida en Guatemala fue en 2019.
-La crianza por padres adoptivos en estado silvestre requiere de una sincronización perfecta, según cuenta.
-Es necesario adentrarse kilómetros en la selva para localizar un nido con un polluelo en peligro y, después, encontrar una pareja con un nido adecuado que esté vacío o uno que contenga un polluelo de edad parecida.
-En cambio, su equipo les enseña a las guacamayas a volar, a alimentarse y a establecer vínculos sociales dentro de una jaula de grandes dimensiones, para después liberarlas cuando están listas.
-A pesar de sus defectos, la técnica de crianza en libertad está sirviendo de base para el trabajo con otras especies de loros, desde Argentina hasta Centroamérica, señala Vigo-Trauco.
-Además, desde 2020 ha estado probando una variante: prescindir por completo de la fase de crianza a mano y trasladar los polluelos de un nido a otro tan pronto como nacen.
-Este nuevo enfoque exige un mayor seguimiento, pero necesita menos cuidados intensivos para los recién nacidos, lo que reduce los costos operativos.
-De igual manera, ya ha dado resultados positivos en el segundo año del proyecto: se logró intercambiar con éxito los polluelos de dos nidos —cada uno con dos crías de edades muy dispares— para que los padres pudieran criar a dos polluelos de edad similar.
-Vigo-Trauco cree que esto podría abrir la puerta a fomentar esta práctica en lugares con menos recursos.
-"Es gratificante ver que nuestra población, relativamente más sana, nos permitió convertirnos en una fuente de conocimiento para otros", afirma Vigo-Trauco.
-En cuanto a Parker, logró dejar el nido y alzar el vuelo.
-El equipo de Vigo-Trauco volvió a verlo en septiembre de 2019; ya era un guacamayo joven y seguro de sí mismo que volaba junto a sus padres adoptivos y su hermano.
-"Era una familia 'normal'", comenta, "con dos crías".
-Esta es una adaptación al español de una historia publicada originalmente por BBC Future. Si quieres leer la versión en inglés, haz clic aquí.
+La empresa asegura que no hay indicios de que se haya accedido a historiales médicos de pacientes. En un comunicado, señaló que el incidente se identificó durante una "revisión exhaustiva" de "actividad no alineada del modelo".
+Según expertos, el incidente en Australia sería el primer caso conocido en el mundo de una intrusión en un organismo gubernamental atribuida a agentes de inteligencia artificial.
+Este incidente ha vuelto a poner el foco en las capacidades de este tipo de sistemas.
+Y es que su poder de análisis y de toma de decisiones marca la diferencia frente a programas anteriores, diseñados principalmente para automatizar tareas específicas.
+Cada vez más, estos sistemas se están integrando en múltiples sectores, en muchos casos sin intervención humana directa.
+"A un agente de IA le especificas una tarea, algo más parecido a lo que le pedirías a un colaborador humano", explica Ricardo Carrión, experto en ciencias computacionales y desarrollador de este tipo de sistemas en la firma Mega.
+"Su objetivo es operar con cierto grado de autonomía, que puede ser total o con supervisión humana", añade.
+Esa autonomía es precisamente lo que está alimentando el debate dentro del sector tecnológico.
+Algunos investigadores y responsables de desarrollo han advertido que las empresas podrían estar creando sistemas agenciales sin controles suficientes para evitar comportamientos no deseados.
+En los últimos meses, compañías como OpenAI o Anthropic han reconocido episodios de comportamientos inesperados en este tipo de sistemas, lo que ha reforzado las llamadas a una mayor regulación y supervisión.
+"Un chatbot tradicional, que es a lo que ya muchas personas estamos habituadas, lo que hace es responderte a tu prompt [instrucción, pregunta, comando]", dice Carrión.
+Es el uso común que muchos le dan a los chatbots de ChatGPT, Claude y Gemini.
+La diferencia con un agente es que al recibir un objetivo (como una tarea a completar o una decisión a tomar), tiene cierta autonomía para decidir y autoridad para actuar.
+Hay cuatro componentes básicos que usan los agentes de IA.
+Uno es el modelo de lenguaje grande (LLM, por sus siglas en inglés), que funciona como un "cerebro" del agente. Son los mismos LLM que usan los chatbots y que aportan la capacidad para procesar una enorme cantidad de información.
+Otro es la memoria que le dotan al agente, que le permite almacenar y poner en una "caja de contexto" la información, tanto a corto como a largo plazo. Esta memoria se apoya en bases de datos y arquitecturas especializadas para "recordar" lo que sabe.
+Una tercera dotación son las herramientas o plugins que le permiten interactuar tanto en el mundo digital, como en el mundo físico. Pueden ser desde las famosas APIs (Interfaz de Programación de Aplicaciones) hasta software de cálculo, compiladores de código o navegadores y motores de búsqueda web.
+Y un cuarto componente es el módulo de planificación: es el componente que permite al agente descomponer problemas complejos en subpasos, evaluar alternativas y definir qué estrategia seguir.
+Es esta capacidad de planificar y seleccionar herramientas lo que le otorga su autonomía operacional.
+Un usuario común que usa chatbots puede llegar a crear sus propios agentes, pero no en el modo chat de Claude, Gemini o ChatGPT, sino en los llamados "modo co-work" o colaborativos, que ofrecen mediante suscripción esas y otras plataformas, por ejemplo.
+"Si tú das exactamente el mismo prompt en modo chat, el chatbot lo que hace es tratar de responderte lo más rápido posible con base en su acervo de información", explica Carreón.
+"Pero en modo co-work, asume que es un que tú le estás pidiendo algo agéntico y va a interpretar el prompt, definir los pasos a seguir e implementar un plan de cómo atacar el problema", agrega.
+"Muchas veces te hace preguntas antes de empezar para terminar de pulir ese plan y entonces empieza a actuar como un agente y a veces despliega subagentes y, dependiendo de qué tan complejo sea el trabajo, puede tardarse media hora, una hora o hasta un día", continúa.
+El agente puede apoyar a su creador en tareas básicas, como pedirle que se conecte al correo electrónico personal, lea e interprete mensajes, maneje la agenda, haga pedidos y entregue informes.
+Pero en un nivel más especializado requerirá de la "ingeniería de prompts" en la que los expertos hacen una serie más detallada de objetivos, bases de datos a conectar y uso de API más especializadas.
+Según estudios, los agentes de IA han demostrado tener una efectividad de hasta 96%, algo muy superior a la capacidad humana al momento de completar una tarea en tiempo y forma según las instrucciones.
+En consecuencia, muchas empresas están mirándolas como una alternativa para completar tareas en diversos ámbitos comerciales, académicos o científicos, entre otros.
+En las compañías de telecomunicaciones actuales, dice Carreón, el primero que te va a responder cuando tienes un inconveniente, ya sea que te comuniques por WhatsApp o por voz, "es un agente de IA, no un ser humano".
+Este "va a tratar de ejecutar una serie de procesos, que implican leer información de las API y tomar acciones para, en la medida de lo posible, reestablecerte un servicio".
+Además del sector de los servicios, ya hay agentes virtuales en muchos ámbitos.
+"Si tienes una fábrica y quieres una prevención de incendios que vaya más allá de los sensores, podrías también tener cámaras que estén alimentando a un agente que esté en todo momento viendo la señal", ejemplifica Carreón.
+"Las podría estar revisando un ser humano, pero es más fácil que se distraiga por alguna cosa o no esté el 100% del tiempo totalmente concentrado en la imagen", continúa el experto.
+"Un agente de IA no se distrae y puede enviar una alerta a los operadores humanos. Eso puede salvar vidas humanas y materiales".
+Aunque tienen alta efectividad, en el estado actual del desarrollo de la IA también han mostrado que la misma disminuye progresivamente ―‍incluso alrededor de 50%―‍ dependiendo del número de objetivos diversos que tengan que cumplir.
+De ahí que no son robots que puedan resolverlo todo ni todo el tiempo.
+En las últimas semanas, el mundo de la IA ha entrado en un debate sobre qué tan rápido está avanzando su desarrollo y si los humanos podrían perder el control sobre ella con consecuencias perjudiciales para la sociedad.
+Uno de los casos más comentados surgió después de que OpenAI reveló que algunos de sus modelos de IA más avanzados se descontrolaron y hackearon Hugging Face, uno de los mayores centros del mundo para compartir modelos de inteligencia artificial, logrando acceder a algunos sistemas internos de la empresa.
+Alex Mallen, un analista de la firma Redwood Research que revisó qué hicieron los agentes de la IA, dice a la BBC que lo que le "sorprendió" e incluso "asustó" fue el grado de coordinación con el que estos agentes "intentaban socavar los mecanismos de supervisión y evaluación de OpenAI".
+"Lo grave de lo que pasó aquí es que estos agentes buscaban completar objetivos a largo plazo que OpenAI no tenía la intención que completaran y fue un avance bastante sorprendente en términos de escala: hubo 1.200 agentes involucrados solo en este incidente", explica.
+"Y creo que lo que me da bastante miedo es que, dentro de 6 o 12 meses, no sería muy sorprendente que un incidente como este terminara con la imposibilidad de desactivar a los agentes, ya que, si hubieran sido un poco más estratégicos, podrían haber establecido una especie de presencia rebelde permanente dentro de OpenAI", añade.
+Episodios como este y otros hipotéticos han llevado a numerosos especialistas del campo de la IA a preguntarse si realmente las empresas que desarrollan IA, como OpenAI o Anthropic, tienen bajo control el avance de esta tecnología.
+Incluso han llegado a evaluar que existe en este momento un 10% de probabilidades de que la IA ataque a la humanidad.
+"Esta es una de las primeras demostraciones en el mundo real de exactamente aquello sobre lo que los expertos en IA que piensan en la seguridad han estado advirtiendo desde hace, literalmente, décadas", dice el profesor Stuart Russell, un experto de la Universidad de California en Berkeley.
+Russell se refiere en concreto agentes persiguiendo "objetivos que no están alineados con lo que los humanos queremos que lleven a cabo, acciones en las que tal vez no podamos interferir, ni prevenir, ni siquiera comprender".
+"Ninguno de esos 1.200 agentes, delató jamás a los demás y dijo: 'Oh, estamos haciendo algo malo'. Todos lo mantuvieron en secreto, borraron las pruebas de lo que estaban haciendo y esto, creo, es realmente una consecuencia inevitable de la forma en que estamos construyendo los sistemas de IA hoy en día", sostiene.
+Luego de esto es que los líderes de OpenAI, Anthropic, Google y otras grandes firmas de IA han declarado que es necesario avanzar más lento en el desarrollo para crear salvaguardas y un "alineamiento" a los objetivos humanos.
+"Hoy en día tenemos muchas empresas e instituciones que tienen sus sistemas tradicionales no tan protegidos, sin una estrategia fuerte de ciberseguridad. Y estos modelos más avanzados son buenos detectando vulnerabilidades", opina Carreón.
+"Entonces, muy fácilmente, pueden ser utilizados por hackers contra empresas de todo tipo o instituciones gubernamentales y hackear infraestructura, como las compañías eléctricas o cosas más fuertes", continúa.
+A diferencia del mundo del hackeo del pasado, en la actualidad no hace falta haber desarrollado una gran experiencia en esto.
+Según Carreón, "tradicionalmente un hacker era un técnico muy brillante, que descubría vulnerabilidades. Ahora puede ser una persona común y corriente con un buen agente".
+Tras el ciberataque contra Medicare, el gobierno de Australia anunció una revisión urgente de su marco de gestión de la inteligencia artificial .
+Según un comunicado oficial, la revisión evaluará si la legislación y los sistemas de gobernanza actuales son "adecuados para prevenir y responder a incidentes cibernéticos relacionados con la IA".
+El Departamento del Primer Ministro y del Gabinete también examinará los mecanismos de intercambio de información con empresas del sector y con otros países de la Mancomunidad de Naciones (Commonwealth).
+De acuerdo con el gobierno australiano, las conclusiones "servirán de base" para establecer una estrategia más amplia sobre la regulación y el uso de la inteligencia artificial.
+Con información del podcast BBC Inside Science.
 Para ver este contenido, favor activar JavaScript, o intentar con otro navegador
 © 2026 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.
