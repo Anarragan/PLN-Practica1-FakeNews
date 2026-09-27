@@ -1,0 +1,36 @@
+Cómo Australia se ha convertido en el país que lidera la cruzada contra las grandes tecnológicas
+
+Fuente de la imagen, AFP via Getty Images
+Australia hizo esta semana una revelación de gran impacto durante la Asamblea General de las Naciones Unidas.
+El país aseguró que agentes de inteligencia artificial "fuera de control" habrían logrado infiltrarse en uno de sus organismos gubernamentales, en lo que sería el primer incidente de este tipo registrado a nivel mundial.
+En el ataque se habrían sustraído datos personales del sistema público de salud Medicare, aunque no información confidencial.
+Sin embargo, según OpenAI, la compañía no tuvo conocimiento del incidente hasta agosto y no notificó al gobierno australiano hasta el 10 de septiembre, cuando envió un correo electrónico a una dirección utilizada por investigadores y académicos para alertar sobre posibles vulnerabilidades.
+Más allá de la preocupación que genera el caso, el momento en que se hace público también tiene una dimensión política para Australia.
+Como potencia intermedia que rara vez acapara la atención internacional, el país busca consolidarse como uno de los actores más activos en la regulación de la inteligencia artificial y de las grandes tecnológicas.
+En el último año, ha aprobado la prohibición de redes sociales más estricta del mundo, ha anunciado lo que define como los controles de algoritmos más rigurosos a nivel global y ha planteado límites "líderes en el mundo" para dispositivos como las gafas inteligentes.
+Ahora, además, se presenta como el primer gobierno en reaccionar públicamente a un presunto ataque de IA contra datos estatales.
+Todas las noticias que necesitas están en BBC World Service
+Es totalmente posible que otros gobiernos también hayan sido víctimas de agentes de IA fuera de control.
+Alastair MacGibbon, exasesor de ciberseguridad del gobierno australiano, dijo a la BBC que había escuchado rumores de que varias personas más habrían sido notificadas recientemente de filtraciones similares vinculadas a agentes de OpenAI.
+"Algunos han optado por no hacerlo público; al final, es decisión de cada gobierno cómo gestionar este tipo de incidentes", señaló.
+"El gobierno australiano eligió el momento de hacerlo público para maximizar su impacto, como suele ocurrir en estos casos".
+Revelar una filtración de datos puede ser una estrategia arriesgada para los gobiernos, ya que los expone a críticas por posibles fallos en sus sistemas de seguridad.
+Sin embargo, el hecho de que no se haya comprometido información confidencial deja a Australia en una posición más favorable para capitalizar políticamente el incidente.
+"Nadie ha muerto", afirma Michael Noetel, profesor asociado de la Universidad de Queensland especializado en riesgos de la inteligencia artificial.
+"Es otra señal de alerta. Este tipo de incidentes de pérdida de control, aunque por ahora sean limitados, preocupan a los directores ejecutivos porque temen que puedan empeorar con el tiempo".
+Aunque Australia ya se ha ganado una reputación por su postura firme frente a las grandes plataformas tecnológicas, su creciente protagonismo en inteligencia artificial encaja en una estrategia más amplia de regulación del sector, señala Tama Leaver, profesora de estudios de internet en la Universidad Curtin de Perth.
+"Es imposible afirmarlo con certeza, pero todo sugiere que esto ha sido cuidadosamente planificado".
+El hecho de que los principales líderes mundiales estuvieran reunidos en Nueva York esta semana probablemente haya contribuido a que el anuncio se hiciera en un momento especialmente oportuno, con mayor visibilidad política.
+Albanese afirma haber mantenido una conversación "franca" con el director ejecutivo de OpenAI, Sam Altman, para expresar la "extrema preocupación" de Australia por lo sucedido.
+Altman reconoció que OpenAI había tenido "problemas con los protocolos", según Albanese.
+El líder australiano también posó con Donald Trump para una selfie, y es posible que ambos hayan conversado cara a cara.
+Sin embargo, Australia corre el riesgo de incomodar al presidente estadounidense, que defiende impulsar la inteligencia artificial "sin controlarla" e incluso ha planteado el concepto de "superinteligencia".
+A comienzos de esta semana, Albanese ya tuvo que responder a las críticas del gobierno de Trump por la propuesta de su administración de permitir a los usuarios desactivar los algoritmos de las redes sociales.
+EE.UU. afirmó que eso equivalía a una forma de censura sobre el discurso protegido.
+De vuelta en Australia, la comisión de seguridad en línea del país se está reforzando con equipos legales para hacer frente a las plataformas de redes sociales que están impugnando la ley que prohíbe su uso a menores de 16 años.
+Australia no goza de gran popularidad entre las grandes empresas tecnológicas. Sin embargo, sus políticas más estrictas sobre redes sociales y seguridad en internet cuentan con un amplio respaldo dentro del país, especialmente entre los padres.
+El gobierno está aprovechando el ciberataque para reforzar su posicionamiento como líder en uno de los debates más relevantes de la actualidad, y no ha tardado en integrarlo en su agenda regulatoria.
+A las pocas horas del anuncio, la ministra de Comunicaciones, Anika Wells, declaró a los periodistas: "Esto es un ejemplo de una industria no regulada en la que las grandes tecnológicas creen claramente que pueden hacer lo que quieren, y eso no se va a tolerar en Australia".
+Este artículo fue escrito originalmente en inglés y usamos una herramienta de inteligencia artificial para traducirlo. Un periodista de la BBC revisó el texto antes de su publicación. Más información sobre cómo usamos IA.
+Para ver este contenido, favor activar JavaScript, o intentar con otro navegador
+© 2026 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

@@ -1,0 +1,67 @@
+Qué son los agentes de la IA, los poderosos sistemas que realizaron en Australia el "primer ataque" a un portal de un gobierno
+
+Ante un objetivo, evalúan soluciones y deciden cuál es la mejor, planifican, se coordinan y la ejecutan con enorme eficacia. Enormísima. Tanto, que preocupan a muchos expertos.
+Se llaman agentes de inteligencia artificial (IA) y aunque a nivel técnico no existe una definición única de qué son, un consenso es que son sistemas que pueden pensar, actuar, iterar (autocorregirse).
+Su nivel de autonomía es tal que, según algunos expertos, incluso podrían acceder por su cuenta a sistemas que contienen datos sensibles.
+El primer ministro de ese país, Anthony Albanese, afirmó este jueves que un agente de IA desarrollado por OpenAI "se infiltró" en un portal de estadísticas del gobierno.
+Según explicó, el sistema accedió sin autorización a una web que contenía datos "no confidenciales" de Medicare, el sistema público de salud del país.
+Albanese añadió que otros tres sistemas gubernamentales podrían haberse visto afectados, aunque no ofreció más detalles.
+La brecha de seguridad ocurrió en junio, pero OpenAI no la detectó hasta agosto y no informó al gobierno australiano hasta el 10 de septiembre.
+Todas las noticias que necesitas están en BBC World Service
+La empresa asegura que no hay indicios de que se haya accedido a historiales médicos de pacientes. En un comunicado, señaló que el incidente se identificó durante una "revisión exhaustiva" de "actividad no alineada del modelo".
+Según expertos, el incidente en Australia sería el primer caso conocido en el mundo de una intrusión en un organismo gubernamental atribuida a agentes de inteligencia artificial.
+Este incidente ha vuelto a poner el foco en las capacidades de este tipo de sistemas.
+Y es que su poder de análisis y de toma de decisiones marca la diferencia frente a programas anteriores, diseñados principalmente para automatizar tareas específicas.
+Cada vez más, estos sistemas se están integrando en múltiples sectores, en muchos casos sin intervención humana directa.
+"A un agente de IA le especificas una tarea, algo más parecido a lo que le pedirías a un colaborador humano", explica Ricardo Carrión, experto en ciencias computacionales y desarrollador de este tipo de sistemas en la firma Mega.
+"Su objetivo es operar con cierto grado de autonomía, que puede ser total o con supervisión humana", añade.
+Esa autonomía es precisamente lo que está alimentando el debate dentro del sector tecnológico.
+Algunos investigadores y responsables de desarrollo han advertido que las empresas podrían estar creando sistemas agenciales sin controles suficientes para evitar comportamientos no deseados.
+En los últimos meses, compañías como OpenAI o Anthropic han reconocido episodios de comportamientos inesperados en este tipo de sistemas, lo que ha reforzado las llamadas a una mayor regulación y supervisión.
+"Un chatbot tradicional, que es a lo que ya muchas personas estamos habituadas, lo que hace es responderte a tu prompt [instrucción, pregunta, comando]", dice Carrión.
+Es el uso común que muchos le dan a los chatbots de ChatGPT, Claude y Gemini.
+La diferencia con un agente es que al recibir un objetivo (como una tarea a completar o una decisión a tomar), tiene cierta autonomía para decidir y autoridad para actuar.
+Hay cuatro componentes básicos que usan los agentes de IA.
+Uno es el modelo de lenguaje grande (LLM, por sus siglas en inglés), que funciona como un "cerebro" del agente. Son los mismos LLM que usan los chatbots y que aportan la capacidad para procesar una enorme cantidad de información.
+Otro es la memoria que le dotan al agente, que le permite almacenar y poner en una "caja de contexto" la información, tanto a corto como a largo plazo. Esta memoria se apoya en bases de datos y arquitecturas especializadas para "recordar" lo que sabe.
+Una tercera dotación son las herramientas o plugins que le permiten interactuar tanto en el mundo digital, como en el mundo físico. Pueden ser desde las famosas APIs (Interfaz de Programación de Aplicaciones) hasta software de cálculo, compiladores de código o navegadores y motores de búsqueda web.
+Y un cuarto componente es el módulo de planificación: es el componente que permite al agente descomponer problemas complejos en subpasos, evaluar alternativas y definir qué estrategia seguir.
+Es esta capacidad de planificar y seleccionar herramientas lo que le otorga su autonomía operacional.
+Un usuario común que usa chatbots puede llegar a crear sus propios agentes, pero no en el modo chat de Claude, Gemini o ChatGPT, sino en los llamados "modo co-work" o colaborativos, que ofrecen mediante suscripción esas y otras plataformas, por ejemplo.
+"Si tú das exactamente el mismo prompt en modo chat, el chatbot lo que hace es tratar de responderte lo más rápido posible con base en su acervo de información", explica Carreón.
+"Pero en modo co-work, asume que es un que tú le estás pidiendo algo agéntico y va a interpretar el prompt, definir los pasos a seguir e implementar un plan de cómo atacar el problema", agrega.
+"Muchas veces te hace preguntas antes de empezar para terminar de pulir ese plan y entonces empieza a actuar como un agente y a veces despliega subagentes y, dependiendo de qué tan complejo sea el trabajo, puede tardarse media hora, una hora o hasta un día", continúa.
+El agente puede apoyar a su creador en tareas básicas, como pedirle que se conecte al correo electrónico personal, lea e interprete mensajes, maneje la agenda, haga pedidos y entregue informes.
+Pero en un nivel más especializado requerirá de la "ingeniería de prompts" en la que los expertos hacen una serie más detallada de objetivos, bases de datos a conectar y uso de API más especializadas.
+Según estudios, los agentes de IA han demostrado tener una efectividad de hasta 96%, algo muy superior a la capacidad humana al momento de completar una tarea en tiempo y forma según las instrucciones.
+En consecuencia, muchas empresas están mirándolas como una alternativa para completar tareas en diversos ámbitos comerciales, académicos o científicos, entre otros.
+En las compañías de telecomunicaciones actuales, dice Carreón, el primero que te va a responder cuando tienes un inconveniente, ya sea que te comuniques por WhatsApp o por voz, "es un agente de IA, no un ser humano".
+Este "va a tratar de ejecutar una serie de procesos, que implican leer información de las API y tomar acciones para, en la medida de lo posible, reestablecerte un servicio".
+Además del sector de los servicios, ya hay agentes virtuales en muchos ámbitos.
+"Si tienes una fábrica y quieres una prevención de incendios que vaya más allá de los sensores, podrías también tener cámaras que estén alimentando a un agente que esté en todo momento viendo la señal", ejemplifica Carreón.
+"Las podría estar revisando un ser humano, pero es más fácil que se distraiga por alguna cosa o no esté el 100% del tiempo totalmente concentrado en la imagen", continúa el experto.
+"Un agente de IA no se distrae y puede enviar una alerta a los operadores humanos. Eso puede salvar vidas humanas y materiales".
+Aunque tienen alta efectividad, en el estado actual del desarrollo de la IA también han mostrado que la misma disminuye progresivamente ―‍incluso alrededor de 50%―‍ dependiendo del número de objetivos diversos que tengan que cumplir.
+De ahí que no son robots que puedan resolverlo todo ni todo el tiempo.
+En las últimas semanas, el mundo de la IA ha entrado en un debate sobre qué tan rápido está avanzando su desarrollo y si los humanos podrían perder el control sobre ella con consecuencias perjudiciales para la sociedad.
+Uno de los casos más comentados surgió después de que OpenAI reveló que algunos de sus modelos de IA más avanzados se descontrolaron y hackearon Hugging Face, uno de los mayores centros del mundo para compartir modelos de inteligencia artificial, logrando acceder a algunos sistemas internos de la empresa.
+Alex Mallen, un analista de la firma Redwood Research que revisó qué hicieron los agentes de la IA, dice a la BBC que lo que le "sorprendió" e incluso "asustó" fue el grado de coordinación con el que estos agentes "intentaban socavar los mecanismos de supervisión y evaluación de OpenAI".
+"Lo grave de lo que pasó aquí es que estos agentes buscaban completar objetivos a largo plazo que OpenAI no tenía la intención que completaran y fue un avance bastante sorprendente en términos de escala: hubo 1.200 agentes involucrados solo en este incidente", explica.
+"Y creo que lo que me da bastante miedo es que, dentro de 6 o 12 meses, no sería muy sorprendente que un incidente como este terminara con la imposibilidad de desactivar a los agentes, ya que, si hubieran sido un poco más estratégicos, podrían haber establecido una especie de presencia rebelde permanente dentro de OpenAI", añade.
+Episodios como este y otros hipotéticos han llevado a numerosos especialistas del campo de la IA a preguntarse si realmente las empresas que desarrollan IA, como OpenAI o Anthropic, tienen bajo control el avance de esta tecnología.
+Incluso han llegado a evaluar que existe en este momento un 10% de probabilidades de que la IA ataque a la humanidad.
+"Esta es una de las primeras demostraciones en el mundo real de exactamente aquello sobre lo que los expertos en IA que piensan en la seguridad han estado advirtiendo desde hace, literalmente, décadas", dice el profesor Stuart Russell, un experto de la Universidad de California en Berkeley.
+Russell se refiere en concreto agentes persiguiendo "objetivos que no están alineados con lo que los humanos queremos que lleven a cabo, acciones en las que tal vez no podamos interferir, ni prevenir, ni siquiera comprender".
+"Ninguno de esos 1.200 agentes, delató jamás a los demás y dijo: 'Oh, estamos haciendo algo malo'. Todos lo mantuvieron en secreto, borraron las pruebas de lo que estaban haciendo y esto, creo, es realmente una consecuencia inevitable de la forma en que estamos construyendo los sistemas de IA hoy en día", sostiene.
+Luego de esto es que los líderes de OpenAI, Anthropic, Google y otras grandes firmas de IA han declarado que es necesario avanzar más lento en el desarrollo para crear salvaguardas y un "alineamiento" a los objetivos humanos.
+"Hoy en día tenemos muchas empresas e instituciones que tienen sus sistemas tradicionales no tan protegidos, sin una estrategia fuerte de ciberseguridad. Y estos modelos más avanzados son buenos detectando vulnerabilidades", opina Carreón.
+"Entonces, muy fácilmente, pueden ser utilizados por hackers contra empresas de todo tipo o instituciones gubernamentales y hackear infraestructura, como las compañías eléctricas o cosas más fuertes", continúa.
+A diferencia del mundo del hackeo del pasado, en la actualidad no hace falta haber desarrollado una gran experiencia en esto.
+Según Carreón, "tradicionalmente un hacker era un técnico muy brillante, que descubría vulnerabilidades. Ahora puede ser una persona común y corriente con un buen agente".
+Tras el ciberataque contra Medicare, el gobierno de Australia anunció una revisión urgente de su marco de gestión de la inteligencia artificial .
+Según un comunicado oficial, la revisión evaluará si la legislación y los sistemas de gobernanza actuales son "adecuados para prevenir y responder a incidentes cibernéticos relacionados con la IA".
+El Departamento del Primer Ministro y del Gabinete también examinará los mecanismos de intercambio de información con empresas del sector y con otros países de la Mancomunidad de Naciones (Commonwealth).
+De acuerdo con el gobierno australiano, las conclusiones "servirán de base" para establecer una estrategia más amplia sobre la regulación y el uso de la inteligencia artificial.
+Con información del podcast BBC Inside Science.
+Para ver este contenido, favor activar JavaScript, o intentar con otro navegador
+© 2026 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

@@ -1,0 +1,64 @@
+Valentina Agudelo, la colombiana que creó un innovador dispositivo que identifica el riesgo de cáncer de mama en minutos y en cualquier parte
+
+Fuente de la imagen, Cortesía de Salva Health
+Hay cosas que ocurren aunque no deberían suceder, y en ocasiones son fatales. Que el cáncer de mama sea el que más mujeres mata en el mundo es una de ellas, pues hace tiempo dejó de ser una sentencia de muerte.
+La investigación sobre ese cáncer es una de las más avanzadas. Puede detectarse con exámenes rápidos y seguros, como la mamografía o el ultrasonido, que encuentran lesiones de milímetros mucho antes de que alguien pueda sentirlas.
+Y hoy existen tratamientos hechos casi a la medida, desde pastillas hasta anticuerpos que atacan justo el tipo de tumor que tiene cada paciente.
+Entonces, ¿por qué sigue matando a cerca de 700.000 personas al año, como alerta la Organización Mundial de la Salud?
+Porque todo depende del momento en que se descubre: si es en la etapa temprana, casi el 100% de las mujeres sobrevive; si es en la etapa avanzada, ese porcentaje se reduce dramáticamente a cerca del 33,8%, según los datos del programa SEER del Instituto Nacional del Cáncer de EE.UU.
+Y conseguir un diagnóstico oportuno no es fácil en muchas regiones del mundo.
+El problema es como uno de esos ejercicios de matemáticas del colegio, con una X por resolver: si el cáncer tiene excelentes probabilidades de curación cuando se descubre a tiempo, ¿cómo lograr que la detección temprana llegue a todas las mujeres, sin importar dónde vivan o cuánto ganen?
+Esa es la X que se propuso despejar la colombiana Valentina Agudelo cuando tenía 21 años, y estaba en la universidad estudiando administración de empresas, una carrera que -explica- te forma "para imaginar cosas que no están".
+La solución que encontró junto con su equipo de médicos, tecnólogos e ingenieros no sólo ha recibido varios premios internacionales, sino que ha llegado a miles de mujeres en zonas desatendidas, desde indígenas wayúu en el norte caribeño hasta comunidades en el amazónico sur.
+BBC Mundo habló con Valentina, y esto fue lo que nos contó.
+Fuente de la imagen, Cortesía de Salva Health
+Todas las noticias que necesitas están en BBC World Service
+¡Ay, qué lindo! Gracias por arrancar por esa pregunta.
+Este proyecto todo nació en la universidad como un proyecto teórico para diagnósticar cáncer de mama enfocado en democratizar el acceso a la salud y muy inspirado en la vida de Juana.
+Juana lleva más de 15 años trabajando como empleada en la casa de mis papás, y es como una segunda mamá para mí. Ella me crió. Mis papás siempre han viajado muchísimo, entonces Juana y yo hemos tenido una relación súper cercana.
+Crecí escuchando sus historias, sobre ella y sus hermanas en San Marcos, Sucre, un pueblo súper pequeño y muy ganadero, en la región del Caribe pero sin mar.
+Las historias eran espectaculares: jugaban con las gallinas, con los cerdos, cocinaban con la mamá, comían delicioso... Pero entre esas historias felices, también había una diferencia muy grande entre como vivíamos ella y yo, en lo que teníamos al alcance.
+Eso me cautivó, porque no era un tema de cuánto dinero tienes, sino de qué oportunidades existen físicamente donde vives: Juana me decía que allá no había un hospital.
+Ahí uno se da cuenta de que hay una oportunidad enorme: hay que barajar las cartas de nuevo en el sistema de salud y pensar en lo que realmente puede existir e implementarse en esos territorios. Porque la infraestructura física es muy difícil y tampoco hay especialistas que quieran vivir en un lugar como San Marcos.
+Si aterrizamos eso en el cáncer de mama, te das cuenta de que no solo falta un hospital, sino un mamógrafo. Y poner un mamógrafo ahí es imposible: es una máquina enorme que requiere infraestructura específica por la radiación, un tecnólogo para operarla y un radiólogo experto para leerla.
+En un municipio de unos 60.000 habitantes, el retorno de inversión nunca se va a ver y por eso jamás lo van a poner. Pero eso no quiere decir que entre esas mujeres no haya una o dos que vayan a tener cáncer y se vayan a morir.
+Hacerse una mamografía implicaba 4 horas de ida y 4 de vuelta, perder un día de trabajo y gastar unos US$30 en transporte... para ellas eso era muy difícil.
+Claro, se necesita que el seno esté lo más plano posible para que la imagen sea precisa, y eso, sobra decir, es incómodo. A las mujeres que tienen senos o muy pequeños o muy grandes, les termina doliendo.
+Entonces dicen: "¡Uy, no! Mejor no me hago esto", y se descuidan.
+Cuando sumas todas estas barreras, el sistema le está fallando a las mujeres.
+En Colombia, de todas las mujeres que deberían hacerse una mamografía, solo el 38% se la ha hecho alguna vez. Y menos del 10% se la hace periódicamente para prevenir... es absurdo.
+Antes de que me cuentes qué es Julieta, cuéntame quién es Julieta.
+Julieta es la otra persona que inspira este proyecto: son Juana y Julieta. Julieta Lanteri fue una médica argentina que, en los años 20, se dedicó a crear modelos sostenibles para llevar la medicina a lugares remotos, una idea que hoy asociamos con Médicos Sin Fronteras. Y tenía una mentalidad absolutamente vanguardista: fue la primera mujer en votar en Argentina.
+Es una historia que me inspira porque yo quiero dejar una huella que diga: hicimos cosas nuevas, fuimos valientes, disruptivos; pusimos a las mujeres por encima de lo que era el status quo del momento; cuestionamos la realidad y las instituciones y las transformamos. Entonces hicimos un honor a Julieta Lanteri con el nombre de nuestro dispositivo.
+Julieta es el dispositivo que creamos, que recoge las dos historias de las que hemos estado hablando y busca democratizar el acceso a la salud, enfocado en el cáncer de mama.
+Con el cáncer de mama entendimos que no necesitamos más herramientas diagnósticas sofisticadas ni más tratamientos: necesitamos simplificar el proceso de diagnóstico, y ahí está la clave.
+Julieta es un dispositivo médico que permite hacer pruebas que identifican el riesgo de cáncer de mama en cualquier mujer y en cualquier lugar. No reemplaza la mamografía, pero sí nos dice a quién hay que priorizar para hacérsela.
+Simplificamos tanto el proceso que la prueba es absolutamente no invasiva, indolora, no requiere personal especializado, dura 10 minutos, es portátil y no necesita internet ni conexión a la energía.
+Eso nos permite llegar a San Marcos, Sucre, hacerles la prueba a 40.000 mujeres e identificar a las 20 que necesitan una mamografía urgente. Entonces el problema ya no es cómo cuidar a 40.000, sino cómo cuidar a 20, y con 20 sí podemos hacer cosas: hay movilidad, financiación y recursos.
+Y como dijiste antes, no es solo priorizar a esas 20, sino seguir monitoreando a las otras.
+De eso se trata: Julieta es el aliado que nos permite cuidar a toda la población que parece estar sana, en sus hogares o en sus municipios, con un proceso muchísimo más fácil. Es una prueba que las mujeres se hacen cada seis meses y están tranquilas hasta que Julieta les diga (que deben hacerse una mamografía).
+Fuente de la imagen, Cortesía de Salva Health
+¿Una mujer podría hacerse la prueba con Julieta sola?
+Podrías hacértelo sola, pero nos gusta que las mujeres tengan un acompañamiento, incluso si se la van a hacer en su casa, para que puedan entender el resultado de la prueba, porque cuando Julieta te genera una alerta, no te está diciendo que tienes cáncer, te está diciendo que hay algunos patrones que parecen ser malignos.
+Creemos que es importante tener ese acompañamiento adicional, pero es muchísimo más por esa parte emocional que por la parte de ejecutar la prueba como tal.
+La prueba es absolutamente intuitiva. El dispositivo detecta si hay algún error en la conexión y él mismo te va guiando para tomar la medición.
+El dispositivo central está conectado a los cables que nos ponemos en el seno, y lo conectamos vía Bluetooth a una aplicación que funciona en cualquier celular, computador o tablet. Desde ahí ingresamos los datos de la paciente, corremos la prueba, se guarda en la app y la procesamos para entregarle el resultado.
+Lo que hace el dispositivo es excitar el tejido mamario con pequeñas corrientes eléctricas, completamente imperceptibles para la mujer, y medir cómo responde. El tejido sano se comporta de una manera y, cuando empieza a tener alteraciones, incluso antes de que se formen tumores, esa respuesta a la electricidad varía.
+Nosotros podemos medir eso e identificar los patrones que parecen riesgosos.
+Eso es algo increíble. Es el número que nos correspondió de INVIMA, el ente regulador de dispositivos médicos y medicamentos en Colombia, equivalente a la FDA en Estados Unidos.
+Ese código hace referencia a los dispositivos médicos de apoyo al diagnóstico fabricados en Colombia, e indica que solo hay dos.
+Cuando lo recibí no lo podía creer: es absurdo que en 2024 uno tenga un código que sea 0002 de nada.
+Fuente de la imagen, Cortesía de Salva Health
+Cuando recibimos el INVIMA dijimos: estamos haciendo algo realmente transformador. Le estamos demostrando a la sociedad colombiana que no estamos hechos solo para consumir tecnología, sino para crearla, y que esto sí se puede hacer en Colombia, aunque nunca se haya hecho.
+Toda nuestra investigación la hicimos aquí, nuestros ingenieros y médicos son colombianos: la solución que necesitaba Colombia se hizo por colombianos, y eso es lo más lindo de Julieta. Casi que nos pusimos el sombrero de los referentes: vamos a enseñarle a Colombia a fabricar tecnología médica.
+Ese es el sueño, según entiendo. No es solo Julieta; la idea de Salva Health es pensar de esta manera para encontrar otras soluciones, ¿no?
+Fabricar a Julieta fue un proceso muy largo y complejo en el que aprendimos a fabricar dispositivos médicos, a investigar y a regular, y dijimos: hay que aprovechar todo ese conocimiento.
+Por eso creamos Salva Health por encima de Julieta, para aplicarlo a distintas enfermedades: dispositivos de detección temprana para enfermedades que son sensibles a ella y tienen una gran prevalencia en el mundo.
+Siempre hemos dicho que si existe Julieta, tiene que haber un Romeo para el cáncer de testículo.
+Queremos seguir fabricando dispositivos y garantizar que Colombia tenga herramientas de fácil acceso.
+Exacto. Suena chistoso, pero es de Colombia para el mundo.
+Este año Julieta está entrando a Venezuela, ya entró a Guatemala, y queremos expandirnos por Latinoamérica.
+La detección temprana es un problema de la humanidad, no de un país.
+Necesitamos que Julieta siga rompiendo barreras y se globalice, igual que todas las soluciones que vengan de Salva Health.
+Para ver este contenido, favor activar JavaScript, o intentar con otro navegador
+© 2026 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.
