@@ -60,9 +60,10 @@ python fake_news_agent/corpus/metricas.py
 - [x] Almacenar los archivos en dos carpetas independientes: verdadero y falso.
 - [x] Conseguir las 5000 muestras de la fuente 2 (de forma aleatoria y balanceada).
 - [x] Calcular las métricas base.
+- [x] 2. Preprocesamiento de texto (limpieza, tokenización, etc.).
 
 #### En proceso
-- [ ] 2. Preprocesamiento de texto (limpieza, eliminación de *stop words*, tokenización, etc.).
+- [ ] 3. Pos tagging
 
 ---
 
