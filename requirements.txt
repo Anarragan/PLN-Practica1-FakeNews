@@ -4,3 +4,5 @@ pandas
 kagglehub
 numpy<2
 nltk
+spacy
+matplotlib
