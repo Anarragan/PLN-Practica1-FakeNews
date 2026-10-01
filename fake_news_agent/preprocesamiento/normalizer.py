@@ -15,8 +15,11 @@ def to_lowercase(texto: str) -> str:
     return texto.lower()
 # --- 2. Eliminación de tildes ---
 def remove_accents(texto: str) -> str:
+    # Protege la ñ para que NFKD no la descomponga en n + virgulilla
+    texto = texto.replace("ñ", "\x00").replace("Ñ", "\x01")
     nfkd = unicodedata.normalize("NFKD", texto)
-    return "".join(c for c in nfkd if not unicodedata.combining(c))
+    sin_tildes = "".join(c for c in nfkd if not unicodedata.combining(c))
+    return sin_tildes.replace("\x00", "ñ").replace("\x01", "Ñ")
 # --- 3. Eliminación de retornos de carro / saltos de línea ---
 def remove_line_breaks(texto: str) -> str:
     return re.sub(r"[\r\n\t]+", " ", texto)

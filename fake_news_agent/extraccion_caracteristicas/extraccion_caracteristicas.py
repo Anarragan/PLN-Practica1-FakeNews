@@ -41,13 +41,11 @@ COLUMNAS_REQUERIDAS = {
 
 # Recursos y utilidades
 def quitar_tildes(texto: str) -> str:
-    """Quita marcas diacríticas para igualar el tratamiento del punto 2."""
+    """Quita tildes de vocales igual que el punto 2 (conserva la ñ)."""
+    texto = texto.replace("ñ", "\x00").replace("Ñ", "\x01")
     nfkd = unicodedata.normalize("NFKD", texto)
-    return "".join(
-        caracter
-        for caracter in nfkd
-        if not unicodedata.combining(caracter)
-    )
+    sin_tildes = "".join(c for c in nfkd if not unicodedata.combining(c))
+    return sin_tildes.replace("\x00", "ñ").replace("\x01", "Ñ")
 
 
 def cargar_stopwords_espanol() -> set[str]:
@@ -314,6 +312,17 @@ def extraer_caracteristicas(
         bow_stemming_por_documento
     )
 
+    # E. Solo stemming (sin stopwords ni filtro de frecuencia).
+    # Variante necesaria para Mateo en el punto 10: STOPWORDS=FALSE, STEMMING=TRUE.
+    bow_solo_stemming_por_documento = [
+        aplicar_stemming_documento(caracteristicas, stemmer)
+        for caracteristicas in bow_inicial_por_documento
+    ]
+
+    frecuencias_solo_stemming = calcular_frecuencias_globales(
+        bow_solo_stemming_por_documento
+    )
+
     # DataFrame de salida. No se modifica el DataFrame original.
     resultado = df[
         ["archivo", "clase", "label", "texto_normalizado"]
@@ -344,11 +353,17 @@ def extraer_caracteristicas(
         for caracteristicas in bow_stemming_por_documento
     ]
 
+    resultado["bow_solo_stemming"] = [
+        serializar_lista(caracteristicas)
+        for caracteristicas in bow_solo_stemming_por_documento
+    ]
+
     frecuencias = {
         "01_bow_inicial": frecuencias_iniciales,
         "02_bow_sin_stopwords": frecuencias_sin_stopwords,
         "03_bow_frecuencia_minima_3": frecuencias_frecuencia_minima,
         "04_bow_stemming": frecuencias_stemming,
+        "05_bow_solo_stemming": frecuencias_solo_stemming,
     }
 
     return resultado, frecuencias
@@ -407,6 +422,9 @@ def procesar_corpus() -> None:
         ),
         "vocabulario_despues_stemming": len(
             frecuencias["04_bow_stemming"]
+        ),
+        "vocabulario_solo_stemming": len(
+            frecuencias["05_bow_solo_stemming"]
         ),
         "archivo_salida_documentos": str(salida_documentos),
         "directorio_vocabularios": str(VOCAB_DIR),

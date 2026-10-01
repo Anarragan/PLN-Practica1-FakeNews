@@ -17,17 +17,17 @@
   "top_palabras_por_tema": 10,
   "lsa": {
     "metodo": "Truncated SVD",
-    "k_seleccionado": 4,
-    "coherencia": 0.4395041119273191,
+    "k_seleccionado": 2,
+    "coherencia": 0.7621136748373483,
     "criterio_seleccion": "Mayor Score de Coherencia c_v dentro del rango evaluado",
     "requiere_interpretacion_manual": true
   },
   "lda": {
     "metodo": "Gensim LdaModel",
-    "k_seleccionado": 9,
-    "coherencia": 0.4137870188296555,
+    "k_seleccionado": 10,
+    "coherencia": 0.4039993955347493,
     "criterio_seleccion": "Mayor Score de Coherencia c_v dentro del rango evaluado",
-    "passes": 5,
+    "passes": 20,
     "iterations": 100
   },
   "archivos_salida": {

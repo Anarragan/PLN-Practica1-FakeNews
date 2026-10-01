@@ -4,12 +4,12 @@
   "documentos_totales": 5060,
   "documentos_verdaderos": 2530,
   "documentos_falsos": 2530,
-  "numero_temas": 9,
+  "numero_temas": 10,
   "criterio_tema_dominante": "Mayor probabilidad de tema",
   "tema_mayor_diferencia": {
-    "tema": "Tema 5",
-    "verdaderas_porcentaje": 3.5968379446640317,
-    "falsas_porcentaje": 22.25296442687747,
-    "diferencia_absoluta": 18.656126482213438
+    "tema": "Tema 8",
+    "verdaderas_porcentaje": 1.5810276679841897,
+    "falsas_porcentaje": 14.901185770750988,
+    "diferencia_absoluta": 13.320158102766799
   }
 }

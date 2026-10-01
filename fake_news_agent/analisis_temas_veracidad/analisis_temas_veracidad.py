@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 from scipy.sparse import load_npz
+from sklearn.preprocessing import normalize
 
 from gensim.corpora import Dictionary
 from gensim.models import LdaModel
@@ -229,7 +230,7 @@ def temas_dominantes_lsa(df: pd.DataFrame) -> pd.DataFrame:
             "La matriz TF-IDF y el corpus no tienen el mismo número de documentos."
         )
 
-    representacion = modelo.transform(matriz_tfidf)
+    representacion = modelo.transform(normalize(matriz_tfidf, norm="l2"))
 
     indices = np.argmax(np.abs(representacion), axis=1)
     fuerzas = np.max(np.abs(representacion), axis=1)

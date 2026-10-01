@@ -9,6 +9,7 @@ import numpy as np
 import pandas as pd
 from scipy.sparse import load_npz
 from sklearn.decomposition import TruncatedSVD
+from sklearn.preprocessing import normalize
 
 try:
     from gensim.corpora import Dictionary
@@ -71,9 +72,68 @@ RANDOM_STATE = 42
 
 # Parámetros de entrenamiento de LDA.
 # Pueden aumentarse.
-LDA_PASSES = 5
+LDA_PASSES = 20
 LDA_ITERATIONS = 100
 
+# Interpretación manual de los temas (corrida final: LSA k=2, LDA k=10).
+INTERPRETACIONES_LSA = {
+    "Tema 1": (
+        "Casi todas las palabras vienen de la frase 'Iniciativa vers per "
+        "Catalunya', que solo aparece en las noticias falsas de la fuente 2. "
+        "Más que un tema, es un error que quedó en el dataset."
+    ),
+    "Tema 2": (
+        "Separa dos grupos: de un lado las noticias que tienen la frase de "
+        "'Iniciativa vers per Catalunya' y del otro las que hablan del PP, "
+        "el Gobierno y Podemos."
+    ),
+}
+
+INTERPRETACIONES_LDA = {
+    "Tema 1": (
+        "Noticias sobre la oposición en el Congreso (PP, Vox, Podemos) y "
+        "sobre la Guardia Civil en el juicio del procés."
+    ),
+    "Tema 2": (
+        "Política de partidos en las comunidades autónomas, sobre todo "
+        "Madrid, y elecciones regionales."
+    ),
+    "Tema 3": (
+        "Casos judiciales: condenas del Supremo, denuncias y exhumaciones "
+        "de víctimas del franquismo."
+    ),
+    "Tema 4": (
+        "Las negociaciones del Gobierno de Pedro Sánchez con ERC y los "
+        "independentistas para sacar adelante presupuestos y votaciones."
+    ),
+    "Tema 5": (
+        "Campañas electorales, en especial las andaluzas, y lo que prometen "
+        "los partidos sobre pensiones y temas sociales."
+    ),
+    "Tema 6": (
+        "Verificaciones de videos e imágenes falsas que circulan en redes. "
+        "Aquí cae casi todo lo que sacamos con web scraping."
+    ),
+    "Tema 7": (
+        "Pactos entre partidos, pero con nombres que la fuente 2 cambió al "
+        "crear las noticias falsas (Cristina Narbona, Mónica García, EQUO, "
+        "Coalición Canaria). Por eso hay muchas más falsas que verdaderas."
+    ),
+    "Tema 8": (
+        "No es un tema real. Lo forma la frase 'Iniciativa vers per "
+        "Catalunya', que casi solo aparece en las noticias falsas."
+    ),
+    "Tema 9": (
+        "Anuncios del Gobierno sobre planes de empleo, turismo o "
+        "investigación. Muchos textos repiten la misma estructura ('El "
+        "Gobierno anuncia un plan de...'), como si fueran generados "
+        "automáticamente."
+    ),
+    "Tema 10": (
+        "Corrupción e investigaciones judiciales: el caso Villarejo, la "
+        "Gürtel y los escándalos del rey emérito."
+    ),
+}
 
 
 # Carga y validación de entradas
@@ -235,7 +295,6 @@ def obtener_topicos_lsa(
     top_n: int = TOP_N,
 ) -> tuple[list[list[str]], list[list[float]]]:
     """Extrae términos representativos de cada componente LSA.
-
     Para identificar las características de mayor peso se utiliza la magnitud
     absoluta del coeficiente. El peso firmado se conserva para exportarlo.
     """
@@ -289,6 +348,8 @@ def evaluar_lsa(
     diccionario: Dictionary,
 ):
     """Evalúa LSA para todos los valores de k."""
+    # L2 por documento: sin esto, 3-4 documentos muy largos dominan el SVD
+    matriz_lsa = normalize(matriz_tfidf, norm="l2")
     resultados: list[dict[str, float | int]] = []
 
     mejor_modelo = None
@@ -305,7 +366,7 @@ def evaluar_lsa(
             random_state=RANDOM_STATE,
         )
 
-        modelo.fit(matriz_tfidf)
+        modelo.fit(matriz_lsa)
 
         topicos, pesos = obtener_topicos_lsa(
             modelo,
@@ -464,7 +525,7 @@ def guardar_topicos_lsa(
                     for peso in pesos_tema
                 ),
                 # interpretación manual
-                "interpretacion_manual": "FALTAAAAAAAA",
+                "interpretacion_manual": "",
             }
         )
 
@@ -494,6 +555,9 @@ def guardar_topicos_lda(
                 "probabilidades": " | ".join(
                     f"{probabilidad:.6f}"
                     for probabilidad in probabilidades_tema
+                ),
+                "interpretacion": INTERPRETACIONES_LDA.get(
+                    f"Tema {indice_tema}", ""
                 ),
             }
         )
@@ -734,10 +798,6 @@ def modelar_temas() -> None:
         f"coherencia: {coherencia_lda:.4f}"
     )
     print()
-    print(
-        "IMPORTANTE: abre temas_lsa.csv y completa "
-        "'interpretacion_manual'."
-    )
     print(f"Resultados guardados en: {OUTPUT_DIR}")
 
 
