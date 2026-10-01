@@ -1,64 +1,72 @@
-Valentina Agudelo, la colombiana que creó un innovador dispositivo que identifica el riesgo de cáncer de mama en minutos y en cualquier parte
+Por qué están cerrando miles de empresas en Argentina y qué dice de la economía en la era Milei
 
-Fuente de la imagen, Cortesía de Salva Health
-Hay cosas que ocurren aunque no deberían suceder, y en ocasiones son fatales. Que el cáncer de mama sea el que más mujeres mata en el mundo es una de ellas, pues hace tiempo dejó de ser una sentencia de muerte.
-La investigación sobre ese cáncer es una de las más avanzadas. Puede detectarse con exámenes rápidos y seguros, como la mamografía o el ultrasonido, que encuentran lesiones de milímetros mucho antes de que alguien pueda sentirlas.
-Y hoy existen tratamientos hechos casi a la medida, desde pastillas hasta anticuerpos que atacan justo el tipo de tumor que tiene cada paciente.
-Entonces, ¿por qué sigue matando a cerca de 700.000 personas al año, como alerta la Organización Mundial de la Salud?
-Porque todo depende del momento en que se descubre: si es en la etapa temprana, casi el 100% de las mujeres sobrevive; si es en la etapa avanzada, ese porcentaje se reduce dramáticamente a cerca del 33,8%, según los datos del programa SEER del Instituto Nacional del Cáncer de EE.UU.
-Y conseguir un diagnóstico oportuno no es fácil en muchas regiones del mundo.
-El problema es como uno de esos ejercicios de matemáticas del colegio, con una X por resolver: si el cáncer tiene excelentes probabilidades de curación cuando se descubre a tiempo, ¿cómo lograr que la detección temprana llegue a todas las mujeres, sin importar dónde vivan o cuánto ganen?
-Esa es la X que se propuso despejar la colombiana Valentina Agudelo cuando tenía 21 años, y estaba en la universidad estudiando administración de empresas, una carrera que -explica- te forma "para imaginar cosas que no están".
-La solución que encontró junto con su equipo de médicos, tecnólogos e ingenieros no sólo ha recibido varios premios internacionales, sino que ha llegado a miles de mujeres en zonas desatendidas, desde indígenas wayúu en el norte caribeño hasta comunidades en el amazónico sur.
-BBC Mundo habló con Valentina, y esto fue lo que nos contó.
-Fuente de la imagen, Cortesía de Salva Health
+Fuente de la imagen, AFP via Getty Images
+De visita en Nueva York hace unos días, el presidente de Argentina, Javier Milei, dijo que no ve "ningún problema" con el crecimiento económico del país.
+Lo dijo en respuesta a los temores de que el país pueda encaminarse hacia una "recesión técnica", un fenómeno que ocurre cuando hay dos trimestres seguidos de contracción económica.
+Es que la primera mitad de este año estuvo marcada por alzas y bajas que aumentaron la sensación de fragilidad, aunque al comparar el primer semestre con el mismo período del año anterior, el Producto Interno Bruto siguió creciendo a un ritmo de 2,2%.
+A pesar de la expansión económica y un drástico recorte de la inflación desde más de 211% -cuando inició su mandato- hasta 33,5%, el costo social de las políticas de shock aplicadas por el gobierno ha dejado cicatrices.
+Uno de cada tres argentinos vive en la pobreza; el desempleo bordea el 8%, mientras los ingresos y el poder de compra real de la población siguen rezagados respecto a la inflación.
+Una de las cosas que más les preocupa a los argentinos es la precarización del empleo, que ha llevado a muchas personas a trabajar de manera informal —sin ningún contrato, ni seguridad social— y a endeudarse mucho más allá de su capacidad de pago.
+La morosidad afecta a cerca de un tercio de los que han pedido crédito, y muchos todavía no ven reflejada en sus bolsillos la reactivación económica que el Milei prometió.
+Mientras tanto, los salarios caen en relación al costo de la vida, los servicios básicos cuestan más —tras el recorte de los subsidios— y gran parte de la manufactura local se ha visto afectada por la apertura de las importaciones, que puso fin a una larga historia de políticas de protección de la industria nacional.
 Todas las noticias que necesitas están en BBC World Service
-¡Ay, qué lindo! Gracias por arrancar por esa pregunta.
-Este proyecto todo nació en la universidad como un proyecto teórico para diagnósticar cáncer de mama enfocado en democratizar el acceso a la salud y muy inspirado en la vida de Juana.
-Juana lleva más de 15 años trabajando como empleada en la casa de mis papás, y es como una segunda mamá para mí. Ella me crió. Mis papás siempre han viajado muchísimo, entonces Juana y yo hemos tenido una relación súper cercana.
-Crecí escuchando sus historias, sobre ella y sus hermanas en San Marcos, Sucre, un pueblo súper pequeño y muy ganadero, en la región del Caribe pero sin mar.
-Las historias eran espectaculares: jugaban con las gallinas, con los cerdos, cocinaban con la mamá, comían delicioso... Pero entre esas historias felices, también había una diferencia muy grande entre como vivíamos ella y yo, en lo que teníamos al alcance.
-Eso me cautivó, porque no era un tema de cuánto dinero tienes, sino de qué oportunidades existen físicamente donde vives: Juana me decía que allá no había un hospital.
-Ahí uno se da cuenta de que hay una oportunidad enorme: hay que barajar las cartas de nuevo en el sistema de salud y pensar en lo que realmente puede existir e implementarse en esos territorios. Porque la infraestructura física es muy difícil y tampoco hay especialistas que quieran vivir en un lugar como San Marcos.
-Si aterrizamos eso en el cáncer de mama, te das cuenta de que no solo falta un hospital, sino un mamógrafo. Y poner un mamógrafo ahí es imposible: es una máquina enorme que requiere infraestructura específica por la radiación, un tecnólogo para operarla y un radiólogo experto para leerla.
-En un municipio de unos 60.000 habitantes, el retorno de inversión nunca se va a ver y por eso jamás lo van a poner. Pero eso no quiere decir que entre esas mujeres no haya una o dos que vayan a tener cáncer y se vayan a morir.
-Hacerse una mamografía implicaba 4 horas de ida y 4 de vuelta, perder un día de trabajo y gastar unos US$30 en transporte... para ellas eso era muy difícil.
-Claro, se necesita que el seno esté lo más plano posible para que la imagen sea precisa, y eso, sobra decir, es incómodo. A las mujeres que tienen senos o muy pequeños o muy grandes, les termina doliendo.
-Entonces dicen: "¡Uy, no! Mejor no me hago esto", y se descuidan.
-Cuando sumas todas estas barreras, el sistema le está fallando a las mujeres.
-En Colombia, de todas las mujeres que deberían hacerse una mamografía, solo el 38% se la ha hecho alguna vez. Y menos del 10% se la hace periódicamente para prevenir... es absurdo.
-Antes de que me cuentes qué es Julieta, cuéntame quién es Julieta.
-Julieta es la otra persona que inspira este proyecto: son Juana y Julieta. Julieta Lanteri fue una médica argentina que, en los años 20, se dedicó a crear modelos sostenibles para llevar la medicina a lugares remotos, una idea que hoy asociamos con Médicos Sin Fronteras. Y tenía una mentalidad absolutamente vanguardista: fue la primera mujer en votar en Argentina.
-Es una historia que me inspira porque yo quiero dejar una huella que diga: hicimos cosas nuevas, fuimos valientes, disruptivos; pusimos a las mujeres por encima de lo que era el status quo del momento; cuestionamos la realidad y las instituciones y las transformamos. Entonces hicimos un honor a Julieta Lanteri con el nombre de nuestro dispositivo.
-Julieta es el dispositivo que creamos, que recoge las dos historias de las que hemos estado hablando y busca democratizar el acceso a la salud, enfocado en el cáncer de mama.
-Con el cáncer de mama entendimos que no necesitamos más herramientas diagnósticas sofisticadas ni más tratamientos: necesitamos simplificar el proceso de diagnóstico, y ahí está la clave.
-Julieta es un dispositivo médico que permite hacer pruebas que identifican el riesgo de cáncer de mama en cualquier mujer y en cualquier lugar. No reemplaza la mamografía, pero sí nos dice a quién hay que priorizar para hacérsela.
-Simplificamos tanto el proceso que la prueba es absolutamente no invasiva, indolora, no requiere personal especializado, dura 10 minutos, es portátil y no necesita internet ni conexión a la energía.
-Eso nos permite llegar a San Marcos, Sucre, hacerles la prueba a 40.000 mujeres e identificar a las 20 que necesitan una mamografía urgente. Entonces el problema ya no es cómo cuidar a 40.000, sino cómo cuidar a 20, y con 20 sí podemos hacer cosas: hay movilidad, financiación y recursos.
-Y como dijiste antes, no es solo priorizar a esas 20, sino seguir monitoreando a las otras.
-De eso se trata: Julieta es el aliado que nos permite cuidar a toda la población que parece estar sana, en sus hogares o en sus municipios, con un proceso muchísimo más fácil. Es una prueba que las mujeres se hacen cada seis meses y están tranquilas hasta que Julieta les diga (que deben hacerse una mamografía).
-Fuente de la imagen, Cortesía de Salva Health
-¿Una mujer podría hacerse la prueba con Julieta sola?
-Podrías hacértelo sola, pero nos gusta que las mujeres tengan un acompañamiento, incluso si se la van a hacer en su casa, para que puedan entender el resultado de la prueba, porque cuando Julieta te genera una alerta, no te está diciendo que tienes cáncer, te está diciendo que hay algunos patrones que parecen ser malignos.
-Creemos que es importante tener ese acompañamiento adicional, pero es muchísimo más por esa parte emocional que por la parte de ejecutar la prueba como tal.
-La prueba es absolutamente intuitiva. El dispositivo detecta si hay algún error en la conexión y él mismo te va guiando para tomar la medición.
-El dispositivo central está conectado a los cables que nos ponemos en el seno, y lo conectamos vía Bluetooth a una aplicación que funciona en cualquier celular, computador o tablet. Desde ahí ingresamos los datos de la paciente, corremos la prueba, se guarda en la app y la procesamos para entregarle el resultado.
-Lo que hace el dispositivo es excitar el tejido mamario con pequeñas corrientes eléctricas, completamente imperceptibles para la mujer, y medir cómo responde. El tejido sano se comporta de una manera y, cuando empieza a tener alteraciones, incluso antes de que se formen tumores, esa respuesta a la electricidad varía.
-Nosotros podemos medir eso e identificar los patrones que parecen riesgosos.
-Eso es algo increíble. Es el número que nos correspondió de INVIMA, el ente regulador de dispositivos médicos y medicamentos en Colombia, equivalente a la FDA en Estados Unidos.
-Ese código hace referencia a los dispositivos médicos de apoyo al diagnóstico fabricados en Colombia, e indica que solo hay dos.
-Cuando lo recibí no lo podía creer: es absurdo que en 2024 uno tenga un código que sea 0002 de nada.
-Fuente de la imagen, Cortesía de Salva Health
-Cuando recibimos el INVIMA dijimos: estamos haciendo algo realmente transformador. Le estamos demostrando a la sociedad colombiana que no estamos hechos solo para consumir tecnología, sino para crearla, y que esto sí se puede hacer en Colombia, aunque nunca se haya hecho.
-Toda nuestra investigación la hicimos aquí, nuestros ingenieros y médicos son colombianos: la solución que necesitaba Colombia se hizo por colombianos, y eso es lo más lindo de Julieta. Casi que nos pusimos el sombrero de los referentes: vamos a enseñarle a Colombia a fabricar tecnología médica.
-Ese es el sueño, según entiendo. No es solo Julieta; la idea de Salva Health es pensar de esta manera para encontrar otras soluciones, ¿no?
-Fabricar a Julieta fue un proceso muy largo y complejo en el que aprendimos a fabricar dispositivos médicos, a investigar y a regular, y dijimos: hay que aprovechar todo ese conocimiento.
-Por eso creamos Salva Health por encima de Julieta, para aplicarlo a distintas enfermedades: dispositivos de detección temprana para enfermedades que son sensibles a ella y tienen una gran prevalencia en el mundo.
-Siempre hemos dicho que si existe Julieta, tiene que haber un Romeo para el cáncer de testículo.
-Queremos seguir fabricando dispositivos y garantizar que Colombia tenga herramientas de fácil acceso.
-Exacto. Suena chistoso, pero es de Colombia para el mundo.
-Este año Julieta está entrando a Venezuela, ya entró a Guatemala, y queremos expandirnos por Latinoamérica.
-La detección temprana es un problema de la humanidad, no de un país.
-Necesitamos que Julieta siga rompiendo barreras y se globalice, igual que todas las soluciones que vengan de Salva Health.
+En medio del debate sobre la fractura que existe entre las buenas cifras macroeconómicas y la vida diaria de la mayoría de la población, Milei calificó como una "estupidez" la afirmación de que el 80% de los argentinos no llega a fin de mes.
+"¿De qué van a vivir, del aire? ¿Qué van a comer, aire? ¿Qué van a beber, aire?", dijo a comienzos de septiembre en la Convención Anual del Instituto Argentino de Ejecutivos de Finanzas en Puerto Iguazú.
+Y desestimó las críticas por el aumento de las deudas impagas.
+"La realidad es que cuando el crédito privado pasa de ser prácticamente inexistente a expandirse al ritmo que se está expandiendo, es matemática de primer grado que la mora va a subir en la transición, es un resultado natural", aseguró.
+En el sector empresarial han surgido ganadores y perdedores.
+El crecimiento ha sido liderado por sectores como la minería, la energía, el agro y las actividades bancarias (intermediación financiera), mientras que el comercio y la industria lo han estado pasando mal este año, según se desprende de los últimos informes del Banco Central de la República Argentina (BCRA).
+Por eso se habla de una economía a dos velocidades o incluso de un país con dos economías paralelas.
+Y entre las empresas que han enfrentado dificultades, son las pequeñas y medianas las que han sufrido los embates más duramente.
+Según el Centro de Economía Política Argentina (CEPA), con datos disponibles hasta junio, 31.342 compañías han cerrado desde que Milei llegó a la Casa Rosada en diciembre de 2023, equivalente a alrededor de un 6% del total.
+Esa estimación, que la organización actualiza mensualmente, es elaborada con la información que entrega la Superintendencia de Riesgos del Trabajo (SRT), utilizando datos provenientes del sistema de seguridad social, dado que no existe un cifra oficial que informe específicamente sobre la apertura y el cierre de empresas en el país.
+Pequeños comerciantes como Alejandro Marchizotti han vivido la dura experiencia de tener que cerrar sus puertas.
+Pese a todos los intentos que hizo para rescatar su negocio de hamburguesas Hupa San Andrés, la situación se volvió insostenible. "El negocio anduvo bien hasta que bajó muchísimo el consumo y tuve que cerrar", le dice a BBC Mundo.
+Fuente de la imagen, Alejandro Marchizotti
+A comienzos de 2024 comenzó a tener los primeros problemas. Vendía poco, le costaba pagarles el sueldo a los empleados, tuvo que pedir un crédito, luego otro, pero no conseguía salir a flote.
+"Llegué a tener cinco empleados y terminé con uno solo", cuenta Marchizotti. La escasez de clientes llegó a un punto en que el proyecto se hizo inviable. A eso se sumó la subida del precio de tarifas como la luz y el gas y el costo de los alquileres", cuenta.
+La ausencia de empleos formales y la proliferación de trabajos precarios, dice, le jugaron en contra: "Echan a la gente y dejás de comprar porque no te alcanza, yo lo viví".
+Terminó cerrando la hamburguesería a fines de mayo y se plantea el futuro con incertidumbre. "Estoy angustiado porque ya tengo 63 años y se complica conseguir un trabajo en relación de dependencia, es muy difícil", apunta.
+Por ahora, se dedica a llevar pasajeros en una aplicación de transporte.
+Fuente de la imagen, Alejandro Marchizotti
+Aunque la experiencia de Marchizotti se repite entre los emprendedores de menor tamaño, hay otras grandes compañías más orientadas a la exportación que están en una buena posición, como lo dejan en evidencia el tipo de crecimiento económico y los datos del Banco Central.
+"El problema es que le está yendo mal a los sectores que generan más empleo", le explica a BBC Mundo Hernán Letcher, director del CEPA.
+El cierre de empresas se debe, desde su perspectiva, a una combinación de varios factores, como la caída del consumo, la disminución de los salarios reales, el aumento de las tarifas básicas y, por cierto, el gran caudal de importaciones que ha ingresado al país.
+"Se te achicó la torta. Y esa torta que ahora es más chica, se comparte con nuevos jugadores que importan", argumenta.
+Durante el actual gobierno, la industria manufacturera ha sido la más afectada en términos de pérdida de puestos de trabajo.
+Las fábricas locales se quejan de dificultades para competir frente al masivo ingreso de productos extranjeros a menor costo, que —según argumentan— están "destruyendo" la industria nacional.
+La Unión Industrial Argentina (UIA) ha planteado que, pese a los avances logrados por Milei en materia de estabilidad macroeconómica, el sector está pasando por una "crítica" situación con alta presión fiscal y dificultades para financiarse.
+Asimismo advirtió que la transición hacia un nuevo esquema económico implica un proceso de adaptación profundo que "no es homogéneo ni inmediato".
+Fuente de la imagen, AFP via Getty Images
+Frente a los cuestionamientos, Milei ha declarado que muchas de las empresas que cierran están conformadas por apenas una sola persona, desestimando el efecto en el empleo.
+El ministro de Desregulación y Transformación del Estado, Federico Sturzenegger, anunció hace algunas semanas que durante la actual gestión se crearon más de medio millón de puestos de trabajo, basándose en datos del Instituto Nacional de Estadística.
+La afirmación impulsó el debate sobre el mercado laboral argentino y puso nuevamente sobre la mesa la pregunta sobre la calidad de los trabajos que se han creado.
+Economistas han estado advirtiendo en los últimos meses que al escarbar los detalles de la creación de empleo, sale a la luz que en realidad el empleo formal ha caído y lo que ha aumentado son los trabajos informales (sin ningún contrato ni seguridad social) y el cuentapropismo, es decir, el autoempleo.
+Cuando le preguntaron a Milei en Nueva York por el tema del trabajo, el presidente argentino reconoció que la creación de empleo ha dado un giro.
+"Lo que sucede es que estos puestos de trabajo se están dando en el sector informal. Entonces, hay contracción en el sector formal y hay expansión en el sector informal. En el neto es expansivo", dijo el mandatario.
+El fenómeno, relacionado con el cierre de empresas y el crecimiento desigual entre los sectores productivos y las regiones del país, es un punto de gran controversia sobre el cual Milei ha sido bastante claro en su postura: "A los que les va peor, si no se adaptan, quiebran".
+La minería, la energía y la agricultura, considerados el motor del crecimiento económico de Argentina, están ingresando un récord histórico de dólares al país, una pieza clave de la actual administración para cumplir con sus metas monetarias y fiscales, y mantener la estabilidad económica.
+Milei ha defendido una transición hacia sectores capaces de generar divisas de manera masiva, apoyándose en un régimen de incentivos a las grandes inversiones en proyectos vinculados al gas, al petróleo, al litio y a los minerales críticos, con compromisos de inversión por miles de millones de dólares.
+En ese contexto, el cierre de empresas consideradas no competitivas y la pérdida de empleos formales en el sector privado no parecen ser un dolor de cabeza para el gobierno, según algunos expertos.
+"Este es un gobierno que está más preocupado por la estabilidad macroeconómica, y en la Argentina eso hay que leerlo como tener dólares suficientes y todo lo demás le preocupa poco", asegura Letcher.
+Guido Zack, director del área económica del centro de estudios Fundar y profesor de la Universidad Nacional de San Martín (Unsam), también argumenta que no es suficiente con acumular dólares, incentivando el desarrollo de solo una parte de la economía.
+El economista está de acuerdo con la idea de la apertura comercial para que las empresas argentinas compitan con el resto del mundo en el mercado interno y externo, pero le preocupa la manera en que se está haciendo.
+"Hay que abrir la economía, pero hay que abrirla en igualdad de condiciones", le dice a BBC Mundo, y afirma que muchas empresas extranjeras pagan menos impuestos que las argentinas.
+"El gobierno abre la economía con la cancha nivelada a favor de las empresas extranjeras y eso es una sentencia de muerte para muchas empresas nacionales", argumenta Zack, señalando una de las razones que han contribuido al cierre de negocios.
+Otras causas que han acelerado el cierre de empresas, agrega, son la apreciación del tipo de cambio, o el aumento en los costos logísticos y de financiamiento, en un entorno económico muy duro.
+Con un dólar alto, impuestos elevados y financiamiento costoso, se les ha hecho muy difícil competir, dice el economista: "Solo crece la parte de la economía vinculada a las materias primas y estamos frente al mayor cierre de empresas en más de 20 años".
+No comparte esa visión el economista Miguel Boggiano, fundador y director de la firma CDI Capital. "Es inexacto decir que no están creciendo todos los sectores de la economía", le comenta a BBC Mundo.
+Si bien es cierto que la energía, la minería y el agro han tenido un mayor crecimiento, otros también lo han hecho, asegura citando los datos del Informe de Política Monetaria (IPOM) publicado trimestralmente por el Banco Central.
+Sobre el cierre de más de 30.000 empresas durante el gobierno de Milei, el Boggiano afirma que ese número es "".
+"Si el crecimiento está en un máximo histórico, ¿cómo puede ser que se estén destruyendo tantas empresas?", pregunta. "Parece un número gigantesco, pero en realidad las empresas que han cerrado son un montón de compañías que tienen uno o dos empleados".
+"Yo creería que es un número que se ha utilizado más que nada para atacar al gobierno, para mostrar que hay una enorme destrucción de empleo, pero eso no es así", completa.
+Lo importante, para el economista, es que el país está viviendo un enorme cambio estructural. Un cambio que apunta al crecimiento de industrias orientadas a la exportación siguiendo la tendencia del comercio internacional.
+Las empresas que han cerrado, sostiene Boggiano, suelen ser negocios o sectores que en gobiernos anteriores se financiaban con emisión monetaria, es decir, imprimiendo billetes y aumentando la inflación. "Esos sectores que se financiaban con políticas populistas son ahora los más golpeados", sentencia.
+En el actual modelo, ya no hay espacio para asistir a las empresas a través de la emisión monetaria, afirma. "El gobierno se encarga de la macroeconomía, se encarga de nivelar la cancha, de ir bajando impuestos en la medida que puede, y para lograr eso tiene que bajar gastos", añade.
+Y, según él, las provincias también tienen que bajar la carga tributaria a las empresas, algo que depende de los gobiernos locales en cada región y no del gobierno central.
+Mirando el futuro, su perspectiva es que muchas de las compañías que pertenecen a los sectores productivos, que ahora están pasando por momentos difíciles, se irán recuperando lentamente en la medida que los salarios le vayan ganando a la inflación.
+"Por eso es clave que la inflación se siga manteniendo baja", dice Boggiano.
+El debate sobre el cierre de empresas, la pérdida de empleos formales, el endeudamiento y el costo de la vida seguirá abierto —especialmente a partir de octubre, cuando está previsto que entre en vigencia el aumento pendiente de impuestos a los combustibles.
+Y es probable que se intensifique mucho más el próximo año, cuando los argentinos vayan a las urnas en las próximas elecciones presidenciales.
 Para ver este contenido, favor activar JavaScript, o intentar con otro navegador
 © 2026 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

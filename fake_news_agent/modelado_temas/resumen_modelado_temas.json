@@ -1,0 +1,43 @@
+{
+  "documentos": 5060,
+  "representacion_lsa": "TF-IDF del punto 6",
+  "representacion_lda": "Bag of Words de la columna bow_stemming del punto 5",
+  "rango_k_evaluado": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "score_coherencia": "c_v",
+  "top_palabras_por_tema": 10,
+  "lsa": {
+    "metodo": "Truncated SVD",
+    "k_seleccionado": 4,
+    "coherencia": 0.4395041119273191,
+    "criterio_seleccion": "Mayor Score de Coherencia c_v dentro del rango evaluado",
+    "requiere_interpretacion_manual": true
+  },
+  "lda": {
+    "metodo": "Gensim LdaModel",
+    "k_seleccionado": 9,
+    "coherencia": 0.4137870188296555,
+    "criterio_seleccion": "Mayor Score de Coherencia c_v dentro del rango evaluado",
+    "passes": 5,
+    "iterations": 100
+  },
+  "archivos_salida": {
+    "coherencia": "/Users/techstore/Documents/GitHub/PLN-Practica1-FakeNews/fake_news_agent/modelado_temas/coherencia_modelos.csv",
+    "grafica_coherencia": "/Users/techstore/Documents/GitHub/PLN-Practica1-FakeNews/fake_news_agent/modelado_temas/grafica_coherencia.png",
+    "temas_lsa": "/Users/techstore/Documents/GitHub/PLN-Practica1-FakeNews/fake_news_agent/modelado_temas/temas_lsa.csv",
+    "temas_lda": "/Users/techstore/Documents/GitHub/PLN-Practica1-FakeNews/fake_news_agent/modelado_temas/temas_lda.csv",
+    "modelo_lsa": "/Users/techstore/Documents/GitHub/PLN-Practica1-FakeNews/fake_news_agent/modelado_temas/modelos/modelo_lsa.joblib",
+    "modelo_lda": "/Users/techstore/Documents/GitHub/PLN-Practica1-FakeNews/fake_news_agent/modelado_temas/modelos/modelo_lda.gensim",
+    "diccionario_gensim": "/Users/techstore/Documents/GitHub/PLN-Practica1-FakeNews/fake_news_agent/modelado_temas/modelos/diccionario_gensim.dict"
+  },
+  "nota": "El punto 8 no se ejecuta aquí. La asignación del tema dominante por documento y la comparación Verdadero/Falso se realizarán posteriormente."
+}

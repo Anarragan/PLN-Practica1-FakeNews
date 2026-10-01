@@ -1,0 +1,10 @@
+tema,palabras_representativas,probabilidades
+Tema 1,gobiern | part | ley | pp | pnv | congres | polit | eaj_pnv | eaj | reform,0.016245 | 0.012015 | 0.011899 | 0.009841 | 0.009229 | 0.007997 | 0.007189 | 0.007103 | 0.007103 | 0.007067
+Tema 2,anos | cas | madr | person | public | dos | pued | afirm | ayus | gras,0.009136 | 0.006022 | 0.005697 | 0.005079 | 0.004803 | 0.004647 | 0.004431 | 0.004343 | 0.004256 | 0.004035
+Tema 3,gobiern | nuev | part | polit | public | pais | med | president | social | hac,0.009563 | 0.006375 | 0.006110 | 0.005268 | 0.004918 | 0.004559 | 0.004384 | 0.004383 | 0.004326 | 0.004293
+Tema 4,sanchez | gobiern | pso | president | acuerd | erc | independent | generalitat | negoci | social,0.018007 | 0.017251 | 0.015308 | 0.012969 | 0.009699 | 0.008606 | 0.007556 | 0.007456 | 0.007327 | 0.007132
+Tema 5,inici | cataluny | per | vers | per_cataluny | vers_per | inici_vers | gobiern | equ | coalicion,0.029510 | 0.026515 | 0.024374 | 0.022075 | 0.021885 | 0.021508 | 0.021507 | 0.015696 | 0.014560 | 0.011062
+Tema 6,tribunal | cas | suprem | civil | inform | delit | guardi | guardi_civil | fiscal | gobiern,0.011301 | 0.008749 | 0.008252 | 0.008246 | 0.008182 | 0.007643 | 0.006101 | 0.005931 | 0.005569 | 0.005261
+Tema 7,pp | madr | part | electoral | eleccion | president | comun | pod | candidat | vox,0.022796 | 0.021203 | 0.019351 | 0.012471 | 0.012410 | 0.011714 | 0.010952 | 0.010685 | 0.010437 | 0.008943
+Tema 8,investig | villarej | cas | juez | public | jos | fiscali | nacional | conden | audienci,0.014483 | 0.011309 | 0.010907 | 0.010715 | 0.008416 | 0.007889 | 0.007243 | 0.006915 | 0.006816 | 0.006790
+Tema 9,ministr | gobiern | pod | unid | social | sanchez | congres | nuev | unid_pod | president,0.013436 | 0.012805 | 0.011279 | 0.010318 | 0.008495 | 0.008409 | 0.007622 | 0.006390 | 0.006369 | 0.005524

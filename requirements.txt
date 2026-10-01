@@ -6,3 +6,5 @@ numpy<2
 nltk
 spacy
 matplotlib
+scikit-learn
+gensim

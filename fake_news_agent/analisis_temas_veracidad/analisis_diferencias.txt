@@ -1,0 +1,12 @@
+ANÁLISIS DE TEMAS SEGÚN LA VERACIDAD
+==========================================
+
+Modelo utilizado: LDA
+Criterio de selección: Selección manual: LDA
+
+Temas con mayor diferencia proporcional:
+- Tema 5: Verdaderas=3.60%, Falsas=22.25%, diferencia=18.66 pp. Mayor presencia: Falsas.
+- Tema 9: Verdaderas=12.81%, Falsas=8.22%, diferencia=4.58 pp. Mayor presencia: Verdaderas.
+- Tema 7: Verdaderas=18.26%, Falsas=14.66%, diferencia=3.60 pp. Mayor presencia: Verdaderas.
+- Tema 2: Verdaderas=12.96%, Falsas=9.41%, diferencia=3.56 pp. Mayor presencia: Verdaderas.
+- Tema 4: Verdaderas=13.00%, Falsas=10.47%, diferencia=2.53 pp. Mayor presencia: Verdaderas.
