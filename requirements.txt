@@ -4,5 +4,7 @@ pandas
 kagglehub
 numpy<2
 nltk
-scikit-learn
+spacy
 matplotlib
+scikit-learn
+gensim

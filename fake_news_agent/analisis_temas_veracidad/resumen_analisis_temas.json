@@ -1,0 +1,15 @@
+{
+  "modelo_utilizado": "LDA",
+  "criterio_seleccion_modelo": "Selección manual: LDA",
+  "documentos_totales": 5200,
+  "documentos_verdaderos": 2600,
+  "documentos_falsos": 2600,
+  "numero_temas": 4,
+  "criterio_tema_dominante": "Mayor probabilidad de tema",
+  "tema_mayor_diferencia": {
+    "tema": "Tema 1",
+    "verdaderas_porcentaje": 60.34615384615385,
+    "falsas_porcentaje": 74.76923076923076,
+    "diferencia_absoluta": 14.423076923076913
+  }
+}

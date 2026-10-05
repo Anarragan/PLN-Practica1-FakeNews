@@ -1,0 +1,14 @@
+{
+  "archivo_entrada": "/Users/techstore/Documents/GitHub/PLN-Practica1-FakeNews/fake_news_agent/preprocesamiento/corpus_normalizado.csv",
+  "documentos_totales": 5200,
+  "documentos_verdaderos": 2600,
+  "documentos_falsos": 2600,
+  "frecuencia_minima": 3,
+  "vocabulario_inicial": 178626,
+  "vocabulario_sin_stopwords": 76129,
+  "vocabulario_frecuencia_minima_3": 13460,
+  "vocabulario_despues_stemming": 8763,
+  "vocabulario_solo_stemming": 143877,
+  "archivo_salida_documentos": "/Users/techstore/Documents/GitHub/PLN-Practica1-FakeNews/fake_news_agent/extraccion_caracteristicas/corpus_caracteristicas.csv",
+  "directorio_vocabularios": "/Users/techstore/Documents/GitHub/PLN-Practica1-FakeNews/fake_news_agent/extraccion_caracteristicas/vocabularios"
+}

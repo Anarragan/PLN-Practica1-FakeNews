@@ -26,8 +26,19 @@ verdaderas = df[df[col_label] == 1]
 
 print(f"Disponibles -> falsas: {len(falsas)}, verdaderas: {len(verdaderas)}")
 
-falsas_sample = falsas.sample(n=2500, random_state=42)
-verdaderas_sample = verdaderas.sample(n=2500, random_state=42)
+OBJETIVO = 2600
+
+actuales_falsas = len(list(ruta_falso.glob("*.txt"))) if ruta_falso.exists() else 0
+actuales_verdaderas = len(list(ruta_verdadero.glob("*.txt"))) if ruta_verdadero.exists() else 0
+
+faltan_falsas = max(0, OBJETIVO - actuales_falsas)
+faltan_verdaderas = max(0, OBJETIVO - actuales_verdaderas)
+
+print(f"Actualmente -> falsas: {actuales_falsas}, verdaderas: {actuales_verdaderas}")
+print(f"Faltan -> falsas: {faltan_falsas}, verdaderas: {faltan_verdaderas}")
+
+falsas_sample = falsas.sample(n=faltan_falsas, random_state=42)
+verdaderas_sample = verdaderas.sample(n=faltan_verdaderas, random_state=42)
 
 ruta_falso.mkdir(parents=True, exist_ok=True)
 ruta_verdadero.mkdir(parents=True, exist_ok=True)

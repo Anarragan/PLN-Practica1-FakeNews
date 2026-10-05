@@ -1,0 +1,25 @@
+{
+  "archivo_entrada": "/Users/techstore/Documents/GitHub/PLN-Practica1-FakeNews/fake_news_agent/extraccion_caracteristicas/corpus_caracteristicas.csv",
+  "columna_caracteristicas": "bow_stemming",
+  "documentos": 5200,
+  "caracteristicas": 8763,
+  "documentos_verdaderos": 2600,
+  "documentos_falsos": 2600,
+  "ponderaciones_generadas": [
+    "TO",
+    "TF-IDF"
+  ],
+  "tfidf": {
+    "tf": "frecuencia absoluta",
+    "idf": "log((1 + n_documentos) / (1 + frecuencia_documental)) + 1",
+    "smooth_idf": true,
+    "normalizacion_final": null
+  },
+  "archivos_salida": {
+    "matriz_to": "/Users/techstore/Documents/GitHub/PLN-Practica1-FakeNews/fake_news_agent/ponderacion_caracteristicas/matriz_to.npz",
+    "matriz_tfidf": "/Users/techstore/Documents/GitHub/PLN-Practica1-FakeNews/fake_news_agent/ponderacion_caracteristicas/matriz_tfidf.npz",
+    "documentos": "/Users/techstore/Documents/GitHub/PLN-Practica1-FakeNews/fake_news_agent/ponderacion_caracteristicas/documentos.csv",
+    "vocabulario": "/Users/techstore/Documents/GitHub/PLN-Practica1-FakeNews/fake_news_agent/ponderacion_caracteristicas/vocabulario_ponderacion.csv",
+    "muestra": "/Users/techstore/Documents/GitHub/PLN-Practica1-FakeNews/fake_news_agent/ponderacion_caracteristicas/muestra_ponderaciones.csv"
+  }
+}

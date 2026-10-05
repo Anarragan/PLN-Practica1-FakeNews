@@ -1,55 +1,32 @@
-"Uno de los grandes misterios de la ciencia": lo que la anestesia general revela sobre cómo funciona nuestro cerebro
+"¡Otra vez no!": la detención de un marine estadounidense por el asesinato de una mujer que reaviva las protestas en la isla japonesa de Okinawa
 
-Fuente de la imagen, BBC / Serenity Strull / Getty
-El funcionamiento de los anestésicos generales sigue sin entenderse por completo, pero su estudio está revelando pistas sobre la naturaleza de la consciencia.
-En 1797, al célebre almirante británico Horatio Nelson le amputaron el brazo derecho. La operación le salvó la vida. Pero, según la leyenda, el único anestésico que le ofrecieron fue un trago de ron.
-Durante la mayor parte de la historia de la humanidad, incluso la amputación de extremidades se realizaba con los pacientes completamente despiertos.
-La introducción de la anestesia general en 1846 supuso una auténtica revolución. De pronto era posible desconectar temporalmente la consciencia de cualquier persona en cualquier momento y lugar. Nelson podría haberse sometido a la amputación y aun así haberse presentado a desayunar al día siguiente.
-Hoy se practican más de 350 millones de intervenciones quirúrgicas cada año bajo anestesia general. Sin embargo, todavía no está del todo claro cómo estos misteriosos fármacos nos sumen en la inconsciencia.
-Las pistas que están surgiendo ahora ayudan a los científicos a comprender mejor el funcionamiento fundamental del cerebro. Incluso apuntan al origen mismo de la consciencia.
-Existen varias categorías de anestésicos. Algunos actúan bloqueando directamente el dolor, mientras que otros provocan somnolencia y relajación. Los anestésicos generales van un paso más allá. Estos fármacos inducen la inconsciencia, de modo que la persona pierde por completo la percepción de lo que sucede a su alrededor.
-Existen numerosos anestésicos capaces de inducir un estado de inconsciencia. Van desde gases aparentemente inertes, como el xenón —que rara vez se utiliza en la práctica clínica—, hasta el propofol, el anestésico general más empleado en la actualidad.
-Los anestésicos generales pueden presentar estructuras químicas muy distintas entre sí. En todos los casos, sin embargo, el efecto global consiste en interferir en la comunicación entre las neuronas del cerebro, impidiendo que estas intercambien señales entre sí.
-Lo que las imágenes por resonancia magnética (IRM) muestran con claridad es una reducción generalizada de la actividad cerebral.
-Sin embargo, se entiende mucho menos cómo esa reducción de actividad logra sumir a un paciente en la inconsciencia.
-Para empezar, todavía no está claro si el estado de inconsciencia inducido por los anestésicos requiere una desconexión total de todo el cerebro o si algunas regiones cerebrales desempeñan un papel más importante que otras.
-Todas las noticias que necesitas están en BBC World Service
-"Incluso si todo el cerebro se apaga, como está tan interconectado, resulta muy difícil aislar qué desencadenó esa desconexión global", explica Nick Franks, profesor de Biofísica y Anestesiología en el Imperial College de Londres.
-"Si observamos las imágenes cerebrales, queda claro que existen determinadas regiones más sensibles que se desactivan primero, y eso plantea la pregunta de si son esas regiones las que desencadenan después el apagado general", agrega.
-Franks señala el tálamo, una estructura con forma de huevo situada en las profundidades del cerebro que actúa como centro de conexión entre distintas regiones cerebrales.
-Esta zona parece reducir su actividad antes que otras cuando una persona recibe anestesia general. El tálamo desempeña un papel crucial, entre otras funciones, en el inicio y mantenimiento del sueño. ¿Significa eso que los anestésicos actúan "secuestrando" los circuitos cerebrales naturales del sueño?
-"Si administras anestesia a un animal y luego estimulas una parte muy específica del tálamo, puedes despertarlo", afirma Franks.
-"Los estudios también muestran que algunas personas en coma pueden despertar mediante estimulación talámica. Por tanto, se trata de una región esencial para el estado de vigilia", agrega. Sin embargo, hacen falta más investigaciones para determinar si ese es realmente el mecanismo que entra en juego.
-Otros científicos creen que la corteza cerebral —la capa externa y plegada del cerebro— constituye el principal "hogar de la consciencia" y que, por tanto, es ahí donde los anestésicos ejercen sus efectos más importantes.
-Pero también hay otras regiones implicadas. Entre ellas figuran los lóbulos frontal y parietal. El primero se encuentra detrás de la frente y participa en numerosas funciones cognitivas de alto nivel, como el pensamiento crítico.
-El segundo está situado más atrás y se encarga de procesar información sensorial, como el tacto.
-Pero están surgiendo indicios de que nuestro cerebro podría ser capaz de alcanzar un estado intermedio de consciencia, que no se corresponde ni con el sueño ni con la vigilia.
-Para la mayoría de las personas, la anestesia general implica una pérdida total de la consciencia y, por tanto, de cualquier recuerdo de lo sucedido. Pero no siempre ocurre así.
-Se calcula que aproximadamente uno de cada 15.000 pacientes sometidos a cirugía puede recordar aspectos de la intervención tras despertarse, un fenómeno conocido como conciencia accidental durante la anestesia.
-Jaideep Pandit, anestesista consultor de los Hospitales de la Universidad de Oxford, cree que estas personas experimentan un "tercer estado" de consciencia, situado en algún punto entre el sueño y la vigilia, o entre la consciencia y la inconsciencia.
-En sus experimentos, Pandit administró la anestesia junto con un relajante muscular, pero utilizó un torniquete para evitar que el relajante paralizara el antebrazo.
-Esto permitía que los pacientes inconscientes movieran la mano si así lo deseaban. Descubrió que un tercio de los pacientes era capaz de apretar los dedos del investigador cuando se les daba una orden, a pesar de no mostrar señales de estar despiertos ni de sentir dolor durante la cirugía.
-Según Pandit, estos resultados sugieren la existencia de un tercer nivel de consciencia.
-El llamado "problema difícil" de la consciencia sigue siendo uno de los grandes misterios sin resolver de la ciencia. Pero estudiar qué cambia cuando perdemos esa capacidad está ayudando a desvelar algunos de sus secretos.
-Aunque el sueño normal también implica una pérdida de consciencia, los anestésicos generales permiten desconectarla en cualquier momento, lo que facilita mucho su estudio.
-Tomemos como ejemplo el carácter único de nuestras experiencias conscientes. En general, se acepta que la experiencia consciente de cada persona o animal es completamente subjetiva y exclusiva.
-Andrea Luppi, neurocientífico de la Universidad de Cambridge, investigó si los anestésicos generales pueden arrojar luz sobre cómo funciona este fenómeno. Para ello estudió cerebros de personas bajo anestesia general mediante resonancias magnéticas funcionales (fMRI).
-Esta tecnología permite registrar el flujo sanguíneo cerebral y observar el efecto que tienen estos fármacos.
-Luppi se interesó especialmente por la denominada "conectividad funcional", una medida de la capacidad de distintas regiones del cerebro para comunicarse y coordinar su actividad.
-Normalmente, este tipo de actividad neuronal sigue un patrón tan singular que puede actuar como una especie de "huella dactilar" para identificar a una persona.
-Sin embargo, Luppi y sus colegas descubrieron que, bajo anestesia, los cerebros individuales se volvían menos "únicos" y más parecidos entre sí.
-De forma intrigante, el cerebro humano anestesiado también se diferenciaba menos de los cerebros de otros primates, lo que sugiere que las regiones cerebrales más afectadas por la anestesia son aquellas que surgieron más recientemente en términos evolutivos.
-Luppi cree que una característica fundamental de la anestesia es que impide la comunicación entre regiones cerebrales distantes.
-Durante la vigilia, distintas áreas pueden interactuar incluso sin estar conectadas de manera directa. Sin embargo, este fenómeno es muy poco frecuente en el cerebro anestesiado, donde parecen comunicarse únicamente las regiones que mantienen conexiones directas.
-"Durante la vigilia, el flujo de la consciencia guía la secuencia de patrones cerebrales por los que transitamos", escribió Luppi en un comentario publicado en 2024.
-Bajo anestesia, en cambio, la actividad cerebral pierde ese rumbo, explica el experto.
-Los hallazgos de Luppi encajan con la idea de que la consciencia no surge de la actividad de una región concreta del cerebro. Más bien, sería el resultado de una red: un fenómeno emergente que nace de la coordinación entre distintos centros cerebrales. Algo parecido a paralizar un gobierno al colapsar los sistemas de comunicación de un país.
-Luppi también cree que los anestésicos generales podrían arrojar luz sobre la forma en que sustancias psicodélicas como el LSD o la psilocibina (los llamados "hongos alucinógenos") alteran la consciencia.
-Mientras que los anestésicos reducen la comunicación entre distintas regiones del cerebro, los psicodélicos parecen provocar el efecto contrario: inducen al cerebro a abrir nuevas vías de comunicación.
-Aun así, todavía queda mucho por aprender sobre dónde reside exactamente la consciencia en el cerebro humano.
-"Nuestro conocimiento sobre la consciencia es bastante rudimentario", afirma Boris Heifets, profesor asociado de Anestesiología, Medicina Perioperatoria y Tratamiento del Dolor en la Universidad de Stanford, en California.
-"Así que, si encuentra a alguien capaz de explicar cómo funciona la experiencia consciente, por favor avíseme. Me encantaría hablar con esa persona."`
-*Todo el contenido de este artículo se ofrece únicamente con fines informativos generales y no debe considerarse un sustituto del asesoramiento médico de profesionales sanitarios.
-Este artículo fue escrito originalmente en inglés y usamos una herramienta de inteligencia artificial para traducirlo. Un periodista de la BBC revisó el texto antes de su publicación. Más información sobre cómo usamos IA.
+Para muchos en Okinawa, la detención de un soldado estadounidense acusado de robar y asesinar a una mujer en un hotel ha reavivado décadas de frustración por los crímenes cometidos por el personal militar estadounidense en la isla.
+"Sinceramente, mi primera reacción fue: '¡Otra vez no!'", dice Ai Sato, de 52 años, una residente de Okinawa desde hace mucho tiempo.
+"Nada ha cambiado desde que era niña. ¿Cuántas veces vamos a repetir lo mismo, a crear más víctimas, a hacer sufrir a sus familias y, en definitiva, a provocar el dolor del pueblo de Okinawa?", se pregunta.
+Akemi Oshiro, otra residente de Ginowan de 62 años, comparte sentimientos similares: "Sé que no deberíamos acostumbrarnos a cosas tan terribles como esta, pero como siguen ocurriendo, he dejado de sorprenderme", dice a la .
+La prefectura del sur de Japón alberga la mayor presencia militar estadounidense en ese país. Es sede de varias bases militares estadounidenses con decenas de miles de soldados estadounidenses.
+El cabo primero de la Infantería de Marina estadounidense Devin Jacob Ballard, de 20 años, fue arrestado por la policía japonesa el domingo.
+La policía informó que se ha iniciado una investigación y que Ballard se encuentra bajo custodia japonesa porque el presunto delito no guarda relación con sus funciones militares oficiales.
+El hecho de que un miembro de las fuerzas armadas estadounidenses actúe o no en el ejercicio de sus funciones oficiales puede determinar qué país tiene la jurisdicción primaria.
+Cuando Japón tiene jurisdicción, pero el sospechoso se encuentra bajo custodia estadounidense, el país norteamericano puede mantener la custodia hasta que Japón presente cargos.
+Todas las noticias que necesitas están en World Service
+Ballard fue asignado a la III Fuerza Expedicionaria de Infantería de Marina de EE.UU. y enviado a la Base Aérea del Cuerpo de Marines de Futenma, en la ciudad de Ginowan.
+La policía de la prefectura de Okinawa informó que Anna Yagi, de 39 años, fue encontrada muerta en la madrugada del 3 de octubre en una habitación de hotel en Naha.
+Según las grabaciones de las cámaras de seguridad, un hombre, presuntamente el sospechoso, entró al hotel con la mujer y se marchó solo con sus pertenencias. Medios locales, citando a la policía, informaron que Yagi aparentemente fue estrangulada con un cordón.
+La primera ministra de Japón, Sanae Takaichi, presentó una protesta oficial ante Washington. Pero residentes como Ai Sato consideran que eso no es suficiente.
+"Me decepcionan profundamente los mismos comentarios del gobierno que hemos estado escuchando durante décadas: que van a protestar o que se toman el asunto en serio", señala.
+"Quiero que la primera ministra Takaichi llame directamente al presidente Trump, con quien ha recalcado que mantiene una estrecha relación, y que discutan medidas concretas para evitar que esto vuelva a suceder".
+Tras conocerse la noticia del presunto asesinato, los japoneses han manifestado su indignación, con cerca de 100 personas protestando tanto en Naha como en Tokio. Otros recurrieron a las redes sociales para expresar su enfado y exigir justicia; un usuario comentó: "Basta ya!".
+Fuente de la imagen, AFP via Getty Images
+En los últimos años, una serie de accidentes y delitos han provocado una creciente oposición local a la presencia estadounidense en la isla.
+La violación y asesinato de una joven de 20 años en 2016 provocó que decenas de miles de personas protestaran contra la fuerte presencia del personal militar de EE.UU. en la zona. Un exinfante de marina estadounidense fue posteriormente condenado a cadena perpetua por el crimen.
+Actualmente, Estados Unidos tiene cerca de 55.000 militares en Japón, con la mayor concentración en la prefectura insular de Okinawa. Si bien es una de las prefecturas más pequeñas del país, alberga el 70 % del territorio utilizado exclusivamente por el ejército estadounidense en Japón.
+En 1972, la prefectura regresó al control japonés después de que las fuerzas estadounidenses ocuparan las islas desde el final de la Segunda Guerra Mundial. Desde entonces, se han producido 6.409 detenciones por delitos relacionados con personal militar estadounidense, según el gobierno de la prefectura de Okinawa.
+Los residentes locales afirman que la importante presencia militar extrajera ha generado resentimiento por una serie de problemas, desde delitos como violaciones, agresiones y accidentes por conducir bajo los efectos del alcohol, hasta molestias como el ruido y los accidentes aéreos.
+En 1995, tres militares estadounidenses secuestraron, golpearon y violaron a una niña de 12 años cuando regresaba a casa de una papelería.
+En 2025, un infante de marina de EE.UU. fue declarado culpable de estrangular y agredir sexualmente a una mujer japonesa.
+"Incluso 80 años después de la guerra, Okinawa, donde vivimos, es un lugar muy inquietante", dice Hitomi Miyagi, una madre de 48 años con dos hijos.
+"No dejaremos de alzar la voz con la esperanza de conseguir una Okinawa donde podamos vivir en paz".
+Este artículo fue escrito originalmente en inglés y usamos una herramienta de inteligencia artificial para traducirlo. Un periodista de la revisó el texto antes de su publicación. Más información sobre cómo usamos IA.
 Para ver este contenido, favor activar JavaScript, o intentar con otro navegador
-© 2026 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.
+© 2026 . La no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.
