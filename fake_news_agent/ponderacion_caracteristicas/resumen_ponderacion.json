@@ -1,10 +1,10 @@
 {
   "archivo_entrada": "/Users/techstore/Documents/GitHub/PLN-Practica1-FakeNews/fake_news_agent/extraccion_caracteristicas/corpus_caracteristicas.csv",
   "columna_caracteristicas": "bow_stemming",
-  "documentos": 5060,
-  "caracteristicas": 7263,
-  "documentos_verdaderos": 2530,
-  "documentos_falsos": 2530,
+  "documentos": 5200,
+  "caracteristicas": 8763,
+  "documentos_verdaderos": 2600,
+  "documentos_falsos": 2600,
   "ponderaciones_generadas": [
     "TO",
     "TF-IDF"

@@ -1,3 +1,3 @@
 tema,palabras_representativas,pesos,interpretacion_manual
-Tema 1,cataluny | inici | per | per_cataluny | vers_per | inici_vers | vers | gobiern | part | equ,0.212872 | 0.211137 | 0.203541 | 0.200154 | 0.199831 | 0.199831 | 0.199327 | 0.174682 | 0.142652 | 0.132892,
-Tema 2,vers_per | inici_vers | per_cataluny | vers | per | inici | cataluny | pp | gobiern | pod,0.311426 | 0.311426 | 0.310652 | 0.309300 | 0.303805 | 0.284252 | 0.270136 | -0.133851 | -0.127772 | -0.092958,
+Tema 1,cataluny | inici | per | per_cataluny | vers_per | inici_vers | vers | gobiern | part | equ,0.208966 | 0.205255 | 0.199096 | 0.195983 | 0.195721 | 0.195721 | 0.195044 | 0.173661 | 0.140647 | 0.131167,
+Tema 2,inici_vers | vers_per | per_cataluny | vers | per | inici | cataluny | pp | gobiern | pod,0.314381 | 0.314381 | 0.313453 | 0.311442 | 0.305761 | 0.283710 | 0.274623 | -0.124423 | -0.119240 | -0.087637,

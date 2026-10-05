@@ -1,9 +1,3 @@
-
-
-
-
-
-
 ### 1. Creacion del corpus
 El corpus se creo mediante web scrapping de sitios como bbc y colombian check, el corpus exisistente que se selecciono fue el de kaggle llamado spanish political fake news
 - Granulariodad en las fuentes, la primera fuente tiene una mayor longitud que la segunda, se tuvo que concatenar el texto con la descripcion

@@ -5,8 +5,7 @@ Modelo utilizado: LDA
 Criterio de selección: Selección manual: LDA
 
 Temas con mayor diferencia proporcional:
-- Tema 8: Verdaderas=1.58%, Falsas=14.90%, diferencia=13.32 pp. Mayor presencia: Falsas.
-- Tema 7: Verdaderas=9.49%, Falsas=17.47%, diferencia=7.98 pp. Mayor presencia: Falsas.
-- Tema 3: Verdaderas=13.44%, Falsas=6.96%, diferencia=6.48 pp. Mayor presencia: Verdaderas.
-- Tema 5: Verdaderas=13.12%, Falsas=6.64%, diferencia=6.48 pp. Mayor presencia: Verdaderas.
-- Tema 1: Verdaderas=8.74%, Falsas=4.70%, diferencia=4.03 pp. Mayor presencia: Verdaderas.
+- Tema 1: Verdaderas=60.35%, Falsas=74.77%, diferencia=14.42 pp. Mayor presencia: Falsas.
+- Tema 3: Verdaderas=24.92%, Falsas=15.08%, diferencia=9.85 pp. Mayor presencia: Verdaderas.
+- Tema 4: Verdaderas=10.54%, Falsas=6.12%, diferencia=4.42 pp. Mayor presencia: Verdaderas.
+- Tema 2: Verdaderas=4.19%, Falsas=4.04%, diferencia=0.15 pp. Mayor presencia: Verdaderas.
