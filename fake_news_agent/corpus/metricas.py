@@ -2,6 +2,7 @@ from pathlib import Path
 import numpy as np
 import nltk
 import pandas as pd
+from scipy import stats
 
 try:
     nltk.data.find("tokenizers/punkt_tab")
@@ -40,6 +41,7 @@ def calcular_metricas(longitudes):
         "q25": q25,
         "q50": q50,
         "q75": q75,
+        "iqr": q75 - q25,
         "sum": np.sum(longitudes),
     }
 
