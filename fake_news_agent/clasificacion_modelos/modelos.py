@@ -25,8 +25,9 @@ from sklearn.tree import DecisionTreeClassifier
 
 
 BASE_DIR = Path(__file__).resolve().parent
-CORPUS_DIR = BASE_DIR / "corpus"
-OUTPUT_DIR = BASE_DIR / "resultados_modelos"
+AGENT_DIR = BASE_DIR.parent
+CORPUS_PATH = AGENT_DIR / "preprocesamiento" / "corpus_normalizado.csv"
+OUTPUT_DIR = BASE_DIR
 TOKEN_PATTERN = re.compile(r"[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+", flags=re.UNICODE)
 RANDOM_STATE = 42
 NUM_FOLDS = 10
@@ -76,25 +77,41 @@ def cargar_stopwords_espanol() -> set[str]:
 		return set(stopwords.words("spanish"))
 
 
-def cargar_corpus(
-	directorio_verdad: Path = CORPUS_DIR / "Verdad",
-	directorio_falso: Path = CORPUS_DIR / "falso",
-) -> list[Documento]:
-	"""Lee los textos etiquetando Verdad como 1 y Falso como 0."""
+def cargar_corpus(ruta: Path = CORPUS_PATH) -> list[Documento]:
+	"""Carga los textos normalizados y las etiquetas del punto 2."""
+	if not ruta.is_file():
+		raise FileNotFoundError(
+			f"No existe el corpus normalizado: {ruta}\n"
+			"Ejecuta primero fake_news_agent/preprocesamiento/normalizer.py."
+		)
+	columnas_requeridas = {"archivo", "label", "texto_normalizado"}
 	documentos: list[Documento] = []
-	for directorio, etiqueta in ((directorio_verdad, 1), (directorio_falso, 0)):
-		if not directorio.is_dir():
-			raise FileNotFoundError(f"No existe el directorio del corpus: {directorio}")
-		for ruta in sorted(directorio.glob("*.txt")):
+	with ruta.open(newline="", encoding="utf-8") as archivo:
+		lector = csv.DictReader(archivo)
+		if lector.fieldnames is None or not columnas_requeridas.issubset(lector.fieldnames):
+			faltantes = columnas_requeridas - set(lector.fieldnames or [])
+			raise ValueError(
+				"El corpus normalizado no contiene las columnas requeridas: "
+				f"{sorted(faltantes)}"
+			)
+		for fila in lector:
+			try:
+				etiqueta = int(fila["label"])
+			except (TypeError, ValueError) as error:
+				raise ValueError(f"Etiqueta inválida en {fila.get('archivo', '')!r}.") from error
+			if etiqueta not in (0, 1):
+				raise ValueError(f"Etiqueta {etiqueta} inválida; se esperaba 0 o 1.")
 			documentos.append(
 				Documento(
-					nombre=ruta.name,
-					texto=ruta.read_text(encoding="utf-8", errors="ignore"),
+					nombre=fila["archivo"],
+					texto=fila["texto_normalizado"] or "",
 					etiqueta=etiqueta,
 				)
 			)
 	if not documentos:
-		raise ValueError("No se encontraron archivos .txt en las carpetas del corpus.")
+		raise ValueError("El corpus normalizado no contiene documentos.")
+	if {documento.etiqueta for documento in documentos} != {0, 1}:
+		raise ValueError("El corpus debe contener documentos de ambas clases (0 y 1).")
 	return documentos
 
 
@@ -200,7 +217,9 @@ def evaluar_modelo(
 		]
 	)
 	if configuracion["ponderacion"] == "TF-IDF":
-		pipeline.steps.append(("ponderador", TfidfTransformer()))
+		pipeline.steps.append(
+			("ponderador", TfidfTransformer(norm=None, use_idf=True, smooth_idf=True))
+		)
 	pipeline.steps.append(("clasificador", modelo))
 	cv = StratifiedKFold(n_splits=folds, shuffle=True, random_state=RANDOM_STATE)
 	puntuaciones = cross_validate(
@@ -281,11 +300,20 @@ def ejecutar_experimentos(
 	directorio_salida.mkdir(parents=True, exist_ok=True)
 	guardar_resultados(resultados, directorio_salida / "metricas_modelos.csv")
 	guardar_graficos(resultados, directorio_salida)
-	guardar_plantilla_analisis_integrado(directorio_salida / "plantilla_punto_9.md")
+	conteo_clases = {
+		"Verdad (1)": sum(documento.etiqueta == 1 for documento in documentos),
+		"Falso (0)": sum(documento.etiqueta == 0 for documento in documentos),
+	}
+	guardar_analisis(
+		resultados,
+		directorio_salida / "analisis_resultados.md",
+		conteo_clases,
+	)
 	(directorio_salida / "configuracion_experimentos.json").write_text(
 		json.dumps(
 			{
 				"documentos": len(documentos),
+				"distribucion_clases": conteo_clases,
 				"entrenamiento": len(indices_train),
 				"prueba": len(indices_test),
 				"etiquetas": {"Verdad": 1, "Falso": 0},
@@ -412,13 +440,126 @@ def _guardar_grafico_grupos(
 	plt.close(fig)
 
 
-def guardar_plantilla_analisis_integrado(ruta: Path) -> None:
-	"""Crea una estructura para completar el analisis integrado del punto 9."""
-	contenido = """# Punto 9: analisis integrado del corpus"""
-	ruta.write_text(contenido, encoding="utf-8")
+def guardar_analisis(
+	resultados: list[dict[str, object]],
+	ruta: Path,
+	conteo_clases: dict[str, int],
+) -> None:
+	"""Genera tablas completas y un resumen visual de los resultados."""
+	mejor_global = max(resultados, key=lambda fila: float(fila["cv_f1_weighted_mean"]))
+	lineas = [
+		"# Punto 10 | Clasificación de noticias",
+		"",
+		"> Comparación de cuatro clasificadores, dos esquemas de ponderación y cuatro "
+		"variantes de preprocesamiento. La métrica de referencia es el F1 ponderado.",
+		"",
+		"## Diseño experimental",
+		"",
+		f"**Corpus:** {sum(conteo_clases.values())} documentos, "
+		f"{conteo_clases['Verdad (1)']} verdaderos y {conteo_clases['Falso (0)']} falsos. "
+		"**Evaluación:** partición estratificada 80/20 y validación cruzada estratificada "
+		"de 10 folds sobre entrenamiento. Las métricas de CV se presentan como media; "
+		"para F1 también se muestra la desviación estándar.",
+		"",
+		"## Vista general",
+		"",
+		"![F1 máximo por algoritmo](f1_maximo_por_algoritmo.png)",
+		"",
+		"![F1 medio por ponderación y algoritmo](f1_medio_ponderacion_algoritmo.png)",
+		"",
+		"![F1 medio por reducción y algoritmo](f1_medio_reduccion_algoritmo.png)",
+		"",
+		"## Resultados por algoritmo",
+		"",
+		"Accuracy es la proporción de aciertos; precisión, recall y F1 se calculan "
+		"con promedio ponderado por clase. Cada tabla contiene las ocho configuraciones "
+		"en el mismo orden de la guía.",
+	]
+	columnas_metricas = (
+		("Accuracy", "accuracy"),
+		("Precisión ponderada", "precision_weighted"),
+		("Recall ponderado", "recall_weighted"),
+		("F1 ponderado", "f1_weighted"),
+	)
+	for modelo in crear_modelos():
+		filas_modelo = [fila for fila in resultados if fila["modelo"] == modelo]
+		lineas.extend(["", f"### {modelo}", "", "**Validación cruzada (10 folds)**", ""])
+		lineas.append(
+			"| # | Ponderación | Stopwords | Stemming | "
+			+ " | ".join(nombre for nombre, _ in columnas_metricas)
+			+ " |"
+		)
+		lineas.append("|---:|---|:---:|:---:|" + "---:|" * len(columnas_metricas))
+		for numero, fila in enumerate(filas_modelo, start=1):
+			valores = []
+			for _, metrica in columnas_metricas:
+				media = float(fila[f"cv_{metrica}_mean"])
+				if metrica == "f1_weighted":
+					desviacion = float(fila["cv_f1_weighted_std"])
+					valores.append(f"{media * 100:.2f}% ± {desviacion * 100:.2f}%")
+				else:
+					valores.append(f"{media * 100:.2f}%")
+			lineas.append(
+				f"| {numero} | {fila['ponderacion']} | "
+				f"{'Sí' if fila['stopwords'] else 'No'} | "
+				f"{'Sí' if fila['stemming'] else 'No'} | "
+				+ " | ".join(valores)
+				+ " |"
+			)
+		lineas.extend(["", "**Conjunto de prueba (20%)**", ""])
+		lineas.append(
+			"| # | Ponderación | Stopwords | Stemming | "
+			+ " | ".join(nombre for nombre, _ in columnas_metricas)
+			+ " |"
+		)
+		lineas.append("|---:|---|:---:|:---:|" + "---:|" * len(columnas_metricas))
+		for numero, fila in enumerate(filas_modelo, start=1):
+			valores = [
+				f"{float(fila[f'test_{metrica}']) * 100:.2f}%"
+				for _, metrica in columnas_metricas
+			]
+			lineas.append(
+				f"| {numero} | {fila['ponderacion']} | "
+				f"{'Sí' if fila['stopwords'] else 'No'} | "
+				f"{'Sí' if fila['stemming'] else 'No'} | "
+				+ " | ".join(valores)
+				+ " |"
+			)
+	lineas.extend(
+		[
+			"",
+			"## Comparación y observaciones",
+			"",
+			f"La mejor configuración según F1 ponderado en validación cruzada fue "
+			f"**{mejor_global['modelo']}** con ponderación **{mejor_global['ponderacion']}**, "
+			f"stopwords={mejor_global['stopwords']} y stemming={mejor_global['stemming']} "
+			f"(F1 CV={float(mejor_global['cv_f1_weighted_mean']) * 100:.2f}%; "
+			f"F1 test={float(mejor_global['test_f1_weighted']) * 100:.2f}%).",
+			"",
+			"Las gráficas resumen el máximo de F1 por algoritmo y las medias al cambiar "
+			"la ponderación o las técnicas de reducción. Las tablas anteriores contienen "
+			"las cuatro métricas para cada combinación, tanto en CV como en prueba.",
+			"",
+			"Los resultados deben interpretarse considerando la composición del corpus: "
+			"incluye ejemplos de la segunda fuente, que el proyecto describe como sintéticos. "
+			"Por ello, un buen resultado de clasificación no garantiza por sí solo la misma "
+			"capacidad de generalización ante noticias reales de otras fuentes.",
+			"",
+			"## Archivos generados",
+			"",
+			"- `metricas_modelos.csv`: métricas de validación cruzada y prueba para las 32 configuraciones.",
+			"- `f1_maximo_por_algoritmo.png`, `f1_medio_ponderacion_algoritmo.png` y `f1_medio_reduccion_algoritmo.png`: gráficas comparativas incluidas arriba.",
+			"- `configuracion_experimentos.json`: tamaños, etiquetas y parámetros de la ejecución.",
+		]
+	)
+	ruta.write_text("\n".join(lineas) + "\n", encoding="utf-8")
+
+
+def main() -> None:
+	"""Ejecuta la comparación completa del punto 10."""
+	ejecutar_experimentos()
 
 
 if __name__ == "__main__":
-	# ejecutar_experimentos()
-	pass
+	main()
 
