@@ -1,4 +1,4 @@
-"""Experimentos preliminares de clasificacion para el punto 10 de la guia."""
+"""Experimentos preliminares de clasificacion para el punto 10"""
 
 from __future__ import annotations
 
@@ -540,11 +540,6 @@ def guardar_analisis(
 			"la ponderación o las técnicas de reducción. Las tablas anteriores contienen "
 			"las cuatro métricas para cada combinación, tanto en CV como en prueba.",
 			"",
-			"Los resultados deben interpretarse considerando la composición del corpus: "
-			"incluye ejemplos de la segunda fuente, que el proyecto describe como sintéticos. "
-			"Por ello, un buen resultado de clasificación no garantiza por sí solo la misma "
-			"capacidad de generalización ante noticias reales de otras fuentes.",
-			"",
 			"## Archivos generados",
 			"",
 			"- `metricas_modelos.csv`: métricas de validación cruzada y prueba para las 32 configuraciones.",
@@ -558,8 +553,4 @@ def guardar_analisis(
 def main() -> None:
 	"""Ejecuta la comparación completa del punto 10."""
 	ejecutar_experimentos()
-
-
-if __name__ == "__main__":
-	main()
 
