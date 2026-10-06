@@ -1,5 +1,5 @@
 {
-  "documentos": 5060,
+  "documentos": 5200,
   "representacion_lsa": "TF-IDF del punto 6",
   "representacion_lda": "Bag of Words de la columna bow_stemming del punto 5",
   "rango_k_evaluado": [
@@ -18,14 +18,14 @@
   "lsa": {
     "metodo": "Truncated SVD",
     "k_seleccionado": 2,
-    "coherencia": 0.7621136748373483,
+    "coherencia": 0.7747326309076636,
     "criterio_seleccion": "Mayor Score de Coherencia c_v dentro del rango evaluado",
     "requiere_interpretacion_manual": true
   },
   "lda": {
     "metodo": "Gensim LdaModel",
-    "k_seleccionado": 10,
-    "coherencia": 0.4039993955347493,
+    "k_seleccionado": 4,
+    "coherencia": 0.4730239111969942,
     "criterio_seleccion": "Mayor Score de Coherencia c_v dentro del rango evaluado",
     "passes": 20,
     "iterations": 100

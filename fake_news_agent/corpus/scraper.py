@@ -13,7 +13,7 @@ MIN_PALABRAS = 200
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 PALABRAS_FUGA = ["falso", "falsa", "engañoso", "engañosa", "verdadero", "verdadera",
-                 "colombiacheck", "chequeo", "chequeamos", "verificamos"] #Eliminado para que el modelo no se entrene con palabras que delaten la clase de la noticia
+                 "colombiacheck", "chequeo", "chequeado", "bbc", "chequeamos", "verificamos", ] #Eliminado para que el modelo no se entrene con palabras que delaten la clase de la noticia
 PATRON_FUGA = re.compile(r"\b(" + "|".join(PALABRAS_FUGA) + r")\b", re.IGNORECASE)
 
 
@@ -63,16 +63,43 @@ def links_colombiacheck(paginas):
                 links.append(url)
     return links
 
+def links_chequeado(paginas):
+    """Obtiene links de artículos de Chequeado."""
+    links = []
+    for pagina in paginas:
+        soup = obtener_soup(pagina)
+        if soup is None:
+            continue
+        for a in soup.find_all("a", href=True):
+            url = urljoin(pagina, a["href"])
+            if "/ultimas-noticias/" in url and url not in links:
+                links.append(url)
+    return links
+
 
 FUENTES = {
-    "Verdad": {
-        "paginas": ["https://www.bbc.com/mundo"],
-        "funcion_links": links_bbc,
-    },
-    "Falso": {
-        "paginas": [f"https://colombiacheck.com/chequeos?page={i}" for i in range(0, 6)],
-        "funcion_links": links_colombiacheck,
-    },
+    "Verdad": [
+        {
+            "paginas": ["https://www.bbc.com/mundo"],
+            "funcion_links": links_bbc,
+        },
+        {
+            "paginas": ["https://chequeado.com/calificacion/verdadero/"] +
+                       [f"https://chequeado.com/calificacion/verdadero/page/{i}/" for i in range(2, 15)],
+            "funcion_links": links_chequeado,
+        },
+    ],
+    "Falso": [
+        {
+            "paginas": [f"https://colombiacheck.com/chequeos?page={i}" for i in range(0, 6)],
+            "funcion_links": links_colombiacheck,
+        },
+        {
+            "paginas": ["https://chequeado.com/calificacion/falso/"] +
+                       [f"https://chequeado.com/calificacion/falso/page/{i}/" for i in range(2, 15)],
+            "funcion_links": links_chequeado,
+        },
+    ],
 }
 
 
@@ -98,26 +125,41 @@ def extraer_texto(url):
 
 # ---------- Guardado ----------
 
-def scraper(etiqueta, config):
+def scraper(etiqueta, fuentes):
     carpeta = os.path.join(BASE_DIR, etiqueta)
     os.makedirs(carpeta, exist_ok=True)
 
-    links = config["funcion_links"](config["paginas"])
-    print(f"{etiqueta}: {len(links)} links obtenidos.")
+    archivos_existentes = [
+        f for f in os.listdir(carpeta)
+        if f.endswith(".txt")
+    ]
+    guardados = len(archivos_existentes)
+    print(f"{etiqueta}: {guardados} documentos existentes.")
 
-    guardados = 0
-    for url in links:
+    if guardados >= N_DOCS_PER_CLASS:
+        return
+    
+    for config in fuentes:
+        links = config["funcion_links"](config["paginas"])
+        print(f"{etiqueta}: {len(links)} links obtenidos.")
+
+        for url in links:
+            if guardados >= N_DOCS_PER_CLASS:
+                break
+            texto = extraer_texto(url)
+            if len(texto.split()) < MIN_PALABRAS:
+                continue
+            guardados += 1
+            ruta = os.path.join(
+                carpeta,
+                f"{etiqueta.lower()}_{guardados:03d}.txt"
+            )
+            with open(ruta, "w", encoding="utf-8") as f:
+                f.write(texto)
+            print(f"  [{guardados}/{N_DOCS_PER_CLASS}] {url}")
+            time.sleep(1)
         if guardados >= N_DOCS_PER_CLASS:
             break
-        texto = extraer_texto(url)
-        if len(texto.split()) < MIN_PALABRAS:
-            continue
-        guardados += 1
-        ruta = os.path.join(carpeta, f"{etiqueta.lower()}_{guardados:03d}.txt")
-        with open(ruta, "w", encoding="utf-8") as f:
-            f.write(texto)
-        print(f"  [{guardados}/{N_DOCS_PER_CLASS}] {url}")
-        time.sleep(1)
 
 
 if __name__ == "__main__":
