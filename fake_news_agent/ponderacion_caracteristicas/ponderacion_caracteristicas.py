@@ -397,20 +397,6 @@ def ponderar_caracteristicas() -> None:
 
     print()
     print("Ponderación completada")
-    print("----------------------")
-    print(
-        f"Documentos       : {matriz_to.shape[0]}"
-    )
-    print(
-        f"Características  : {matriz_to.shape[1]}"
-    )
-    print(
-        f"Valores TO != 0  : {matriz_to.nnz}"
-    )
-    print(
-        f"Valores TF-IDF != 0: {matriz_tfidf.nnz}"
-    )
-    print()
     print(f"Resultados guardados en: {OUTPUT_DIR}")
 
 

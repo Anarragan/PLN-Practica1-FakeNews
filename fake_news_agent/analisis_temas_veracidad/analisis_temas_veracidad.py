@@ -278,7 +278,7 @@ def cargar_descripcion_temas(modelo: str) -> pd.DataFrame:
 
 
 
-# Distribución por veracidad
+# Distribucion por veracidad
 def construir_distribucion(
     documentos: pd.DataFrame,
     descripcion_temas: pd.DataFrame,
@@ -437,7 +437,7 @@ def analizar_temas_veracidad() -> None:
         "Punto 8 - Análisis de temas según la veracidad de las noticias"
     )
     print(
-        "--------------------------------------------------------------"
+        "----------------------------:)---------------------------------"
     )
 
     resumen_modelado = cargar_resumen_modelado()
@@ -493,7 +493,6 @@ def analizar_temas_veracidad() -> None:
         encoding="utf-8",
     )
 
-    # Tabla solicitada en el PDF
     ruta_tabla = (
         OUTPUT_DIR / "tabla_distribucion_temas.csv"
     )

@@ -75,7 +75,7 @@ RANDOM_STATE = 42
 LDA_PASSES = 20
 LDA_ITERATIONS = 100
 
-# Interpretación manual de los temas (corrida final: LSA k=2, LDA k=10).
+# Interpretación manual de los temas (corrida final: LSA k=2, LDA k=4).
 INTERPRETACIONES_LSA = {
     "Tema 1": (
         "Casi todas las palabras vienen de la frase 'Iniciativa vers per "
@@ -95,8 +95,7 @@ INTERPRETACIONES_LDA = {
         "sobre la Guardia Civil en el juicio del procés."
     ),
     "Tema 2": (
-        "Política de partidos en las comunidades autónomas, sobre todo "
-        "Madrid, y elecciones regionales."
+        "información y publicaciones digitales sobre Argentina, posiblemente con referencias a Buenos Aires."
     ),
     "Tema 3": (
         "Casos judiciales: condenas del Supremo, denuncias y exhumaciones "
@@ -105,34 +104,7 @@ INTERPRETACIONES_LDA = {
     "Tema 4": (
         "Las negociaciones del Gobierno de Pedro Sánchez con ERC y los "
         "independentistas para sacar adelante presupuestos y votaciones."
-    ),
-    "Tema 5": (
-        "Campañas electorales, en especial las andaluzas, y lo que prometen "
-        "los partidos sobre pensiones y temas sociales."
-    ),
-    "Tema 6": (
-        "Verificaciones de videos e imágenes falsas que circulan en redes. "
-        "Aquí cae casi todo lo que sacamos con web scraping."
-    ),
-    "Tema 7": (
-        "Pactos entre partidos, pero con nombres que la fuente 2 cambió al "
-        "crear las noticias falsas (Cristina Narbona, Mónica García, EQUO, "
-        "Coalición Canaria). Por eso hay muchas más falsas que verdaderas."
-    ),
-    "Tema 8": (
-        "No es un tema real. Lo forma la frase 'Iniciativa vers per "
-        "Catalunya', que casi solo aparece en las noticias falsas."
-    ),
-    "Tema 9": (
-        "Anuncios del Gobierno sobre planes de empleo, turismo o "
-        "investigación. Muchos textos repiten la misma estructura ('El "
-        "Gobierno anuncia un plan de...'), como si fueran generados "
-        "automáticamente."
-    ),
-    "Tema 10": (
-        "Corrupción e investigaciones judiciales: el caso Villarejo, la "
-        "Gürtel y los escándalos del rey emérito."
-    ),
+    )
 }
 
 
@@ -524,8 +496,10 @@ def guardar_topicos_lsa(
                     f"{peso:.6f}"
                     for peso in pesos_tema
                 ),
-                # interpretación manual
-                "interpretacion_manual": "",
+                
+                "interpretacion_manual": INTERPRETACIONES_LSA.get(
+                    f"Tema {indice_tema}", ""
+                ),
             }
         )
 
@@ -698,7 +672,7 @@ def modelar_temas() -> None:
     )
 
 
-    # Temas finales de cada técnica
+    # Temas finales 
     ruta_lsa = OUTPUT_DIR / "temas_lsa.csv"
     guardar_topicos_lsa(
         topicos_lsa,
