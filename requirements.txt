@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+pandas
+kagglehub
+numpy<2
+nltk
+spacy
+matplotlib
+scikit-learn
+gensim

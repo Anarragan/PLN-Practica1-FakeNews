@@ -1,0 +1,17 @@
+{
+  "documentos": 5200,
+  "distribucion_clases": {
+    "Verdad (1)": 2600,
+    "Falso (0)": 2600
+  },
+  "entrenamiento": 4160,
+  "prueba": 1040,
+  "etiquetas": {
+    "Verdad": 1,
+    "Falso": 0
+  },
+  "semilla": 42,
+  "folds": 10,
+  "frecuencia_minima": 3,
+  "referencia": "F1 ponderado"
+}
