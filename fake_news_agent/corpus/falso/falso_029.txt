@@ -1,3 +1,21 @@
+<<<<<<< HEAD
+Video manipulado con IA atribuye a Bukele propuesta para que Shakira sea presidenta de Colombia
+
+Circula un video del presidente de El Salvador, Nayib Bukele, en el que supuestamente dice: “¿Cómo es posible que Shakira haya tenido que venir desde los Estados Unidos para resolver los problemas que le corresponden al presidente? Y en vez de resolver los problemas reparte balones de fútbol como si eso fuera a resolver el problema y el hambre del momento. Para eso mejor denle el puesto a Shakira y que Shakira sea la presidenta de Colombia”.
+Esto es . Se trata de un video alterado con inteligencia artificial. El original corresponde a una visita oficial del mandatario salvadoreño a Costa Rica en 2024.
+El clip fue difundido desde el 20 de agosto por cuentas en Facebook, Instagram y TikTok que acumulan más de 732.000 visualizaciones.
+La desinformación circuló tras el terremoto de magnitud 7,4 que sacudió el 10 de agosto al occidente de Colombia. El presidente Abelardo de la Espriella visitó el 16 de ese mes Buenaventura, una de las ciudades más afectadas por el sismo, donde anunció la llegada de insumos médicos y otras ayudas para atender a los afectados y también repartió balones de fútbol con el logo de su partido ‘Defensores de la Patria’. Esto último generó críticas de la comunidad.
+Dos días después, la cantante Shakira estuvo en el Chocó, epicentro del temblor, donde anunció la financiación para construir 10 colegios y reconstruir la Universidad Tecnológica de ese departamento.
+Al hacer la búsqueda inversa de uno de los fotogramas del video en Google Lens, encontramos una publicación del 17 de noviembre de 2024 en la cuenta de Instagram de la Secretaría de Prensa de la Presidencia de El Salvador en la que Bukele aparece con la misma ropa y la misma bandera de fondo que en el video. En la descripción dice que las fotos corresponden a una visita del presidente salvadoreño a Costa Rica.
+Con la herramienta Filmot, buscamos en el canal de YouTube de Bukele con la palabra Costa Rica y encontramos el video original publicado el 11 de noviembre de 2024.
+En su discurso, el presidente salvadoreño no se refiere a Colombia ni a la cantante Shakira.
+Pasamos el video y el audio por los detectores de inteligencia artificial Hive Moderation e Hiya de InVID WeVerify. El primero arrojó un 82% de probabilidades de que el audio haya sido generado con esta tecnología.
+Al buscar en Google con las palabras clave “Nayib Bukele” y “Shakira”, hallamos que esta desinformación fue desmentida por nuestros colegas de La Silla Vacía, AFP Factual y Cotejo.info.
+En los resultamos también encontramos que el presidente salvadoreño se refirió a Shakira en diciembre de 2025 en su cuenta de X debido a que las entradas para las tres fechas de conciertos de la artista colombiana se agotaron en menos de 24 horas. En respuesta, Shakira anunció dos nuevas fechas en el país centroamericano.
+Tras el terremoto en Colombia, Bukele envió dos aviones de carga con 100 toneladas de ayuda humanitaria.
+Las páginas Colombia Despierta, El Pregonero político, Amazonía Informa y el creador digital Izquierda Tecnologica.
+Las cuentas @elcholonti, @redmiasey, @blancamirianlazoc y @notiparaco.
+=======
 Video de alias Bendito Menor circula falsamente como si hubiera aparecido vivo después de ser dado de baja
 
 Publicaciones difunden un video de 23 segundos de Naín Andrés Pérez Toncel, alias “Bendito Menor”, uno de los cabecillas de las Autodefensas Conquistadoras de la Sierra Nevada (ACSN), quien fue dado de baja el pasado 4 de septiembre. Los posts falsamente aseguran que la grabación fue publicada después de su muerte, que “Bendito Menor” “apareció vivo” y que se trata de “otro positivo”, como el caso de alias “Iván Mórdisco”, de quien en julio de 2022 se dijo que había sido dado de baja, pero posteriormente se conoció que no era así.
@@ -9,3 +27,4 @@ Ese día, diferentes páginas de noticias compartieron el mismo video (1 y 2), c
 “Hoy 4 de febrero del año 2026 salgo a la luz pública para aclarar muchas situaciones. Una de ellas es el caso del video que anda circulando de alias JJ, que supuestamente piensan contraatacar contra nuestra marcha por la paz. Hoy quiero pedirle a las autoridades y a la gobernación y al alcalde que nos apoyen con su presencia policial, ya que esto es una marcha convocada por la paz y por la tranquilidad del pueblo. Necesitamos de su apoyo”, dice el cabecilla en el video. Al final de la grabación, pronuncia las palabras que se escuchan en el fragmento viral.
 Medios como Santa Marta Al Día y El Tiempo contaron que la marcha del 5 de febrero estuvo marcada por un ambiente de tensión y temor debido a las amenazas de la estructura conocida como ‘Los JJ’, que había advertido sobre posibles acciones contra quienes participaran. Pese a las intimidaciones, cerca de 300 personas salieron a las calles con camisetas blancas, globos y carteles para pedir el cese de la violencia, mientras la Policía acompañó el recorrido.
 El 6 de septiembre se realizó en Riohacha el funeral de “Bendito Menor”. Medios como El País América contaron que durante la jornada hubo caravanas con narcocorridos y disparos al aire para acompañar el cuerpo del cabecilla de las Autodefensas Conquistadoras de la Sierra Nevada.
+>>>>>>> develop

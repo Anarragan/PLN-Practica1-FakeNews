@@ -8,8 +8,8 @@ from urllib.parse import urljoin
 # ---------- Configuración ----------
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"}
-N_DOCS_PER_CLASS = 100 #modificar para obtener mas documentos por clase (75 para llegar a 150)
-MIN_PALABRAS = 100
+N_DOCS_PER_CLASS = 30 # No hay suficientes noticias falsas, así que se limita a 30 para ambas clases. Buscar mas noticias falsas y verdaderas
+MIN_PALABRAS = 200
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 PALABRAS_FUGA = ["falso", "falsa", "engañoso", "engañosa", "verdadero", "verdadera",

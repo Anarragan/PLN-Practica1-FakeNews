@@ -1,3 +1,18 @@
+<<<<<<< HEAD
+Video de un elefante “rescatando” a un hombre no corresponde a la avalancha en Nepal
+
+Circula un video viral que muestra a un elefante rescatando a un hombre de una inundación y lo atribuyen a la avalancha registrada el 26 de agosto en Nepal.
+Sin embargo, esto es . Las imágenes circulan desde comienzos de agosto de 2026, semanas antes del desastre natural en Nepal. Además, tienen inconsistencias que permiten sospechar que pudo haber sido generado con inteligencia artificial.
+La grabación fue difundida por cuentas en X, Facebook e Instagram que superan los 9 millones de visualizaciones.
+El 26 de agosto, el colapso de un glaciar provocó deslizamientos de tierra e inundaciones en la frontera entre Nepal y la región china del Tíbet, según el Servicio Geológico de Estados Unidos. La Policía de Nepal informó que la tragedia dejó más de 350 personas muertas y más de 900 desaparecidas, en su mayoría turistas extranjeros.
+Una búsqueda inversa de uno de los fotogramas del video en Google Lens demuestra que fue publicado el 9 de agosto de 2026 por el canal de YouTube Nagorik Protidi, con la descripción en bengalí: “Elefante mascota salva a su dueño durante una inundación”, sin precisar dónde fue grabado.
+Asimismo, la grabación presenta algunas inconsistencias que permiten sospechar que pudo haber sido generada con inteligencia artificial: el hombre sube por la trompa del elefante demasiado rápido y sin esfuerzo visible, para luego deslizarse por el cuello del animal sin tener un agarre natural.
+Aunque detectores de inteligencia artificial como Hive Moderation, SynthID Detector y Sora AI Detector arrojaron bajas probabilidades de que el video haya sido creado con esta tecnología, estos sistemas se basan en estimaciones probabilísticas y no son infalibles.
+Al buscar en Google con las palabras “elefante rescata a hombre de inundaciones en Nepal” encontramos que este video fue verificado por nuestros colegas de Newtral, que lo calificó como . A este medio el detector Hive Moderation le dio una probabilidad más alta de que el contenido haya sido generado con inteligencia artificial, lo que puede significar que las versiones revisadas por han sido intervenidas con herramientas de edición.
+Los usuarios CodexZeroTR (@CodexZeroTR), Liliana Franco (@lilianaf523), Salvador Macías (@smaciasr), John bach rose (@johnsixx256), SUGARITA MAGNETICA (@CarneDeAzucar), Violeta (@violetamg10078) y The Best (@TheBestqueenx).
+Las páginas de noticias Nova Vox Noticias y Mi Quillabum.
+Las cuentas de la presentadora Mary Méndez y el medio Última Hora Venezuela.
+=======
 Ni Petro dijo que denunciará a De la Espriella ante la CPI por la muerte de “Bendito Menor” ni En Fuga lo publicó
 
 Diversas cuentas en redes sociales comenzaron a mover una supuesta portada de la página de noticias En Fuga. La imagen muestra una fotografía de Gustavo Petro junto a otra más pequeña de Abelardo de la Espriella, bajo el logo “EF” y un titular que asegura que el expresidente denunciará a De la Espriella ante la Corte Penal Internacional tras la muerte de alias “Bendito Menor”.
@@ -11,3 +26,4 @@ El 4 de septiembre, cerca del Centro Cultural Brisas de Mayo en la Comuna 20 de 
 Alejandra Moreno compañera de jóvenes en paz y del proyecto universitario en Siloé. Asesinada bajo la consigna del destripamiento de Abelardo Le solicito a las organizaciones de Derechos Humanos reunir toda la información relacionada con la base de datos de todas y todos los… https://t.co/0MBn7rY4eb
 Moreno Paz hacía parte del programa Jóvenes en Paz y del colectivo Ingenio Musical, donde lideraba procesos culturales con niños y jóvenes. Como se ve, la referencia de Petro a la justicia internacional sí existió, pero vinculada estrictamente a la protección de líderes y al caso de Moreno Paz, no a la baja del jefe criminal de las ACSN.
 Al realizar una revisión con palabras clave en Google y motores de búsqueda, no encontramos ningún registro periodístico o comunicado sobre una supuesta denuncia por la muerte de “Bendito Menor”. El resultado fue el mismo tras revisar las publicaciones y declaraciones oficiales en la cuenta de X de Gustavo Petro.
+>>>>>>> develop

@@ -13,6 +13,7 @@ carpetas = {
 # --- 1. Minúsculas ---
 def to_lowercase(texto: str) -> str:
     return texto.lower()
+
 # --- 2. Eliminación de tildes ---
 def remove_accents(texto: str) -> str:
     # Protege la ñ para que NFKD no la descomponga en n + virgulilla
@@ -23,20 +24,25 @@ def remove_accents(texto: str) -> str:
 # --- 3. Eliminación de retornos de carro / saltos de línea ---
 def remove_line_breaks(texto: str) -> str:
     return re.sub(r"[\r\n\t]+", " ", texto)
+
 # --- 4. Elementos HTML ---
 def remove_html(texto: str) -> str:
     return re.sub(r"<[^>]+>", " ", texto)
+
 # --- 5. Enlaces ---
 def remove_urls(texto: str) -> str:
     return re.sub(r"http\S+|www\.\S+", " ", texto)
+
 # --- 6. Eliminación de números ---
-def remove_numbers(texto: str) -> str:
-    return re.sub(r"\d+", " ", texto)
+def handle_numbers(texto: str) -> str:
+    return re.sub(r"\b\d+([.,]\d+)*\b", "<NUM>", texto)
+
 # --- 7. Signos de puntuación y emoticones ---
 def remove_punctuation_and_emojis(texto: str) -> str:
     # Quita cualquier caracter que no sea letra o espacio
     texto = re.sub(r"[^\w\s]", " ", texto, flags=re.UNICODE)
     return texto
+
 # --- 8. Limpieza final de espacios múltiples ---
 def normalize_spaces(texto: str) -> str:
     return re.sub(r"\s+", " ", texto).strip()
@@ -48,7 +54,7 @@ def normalize_text(texto: str) -> str:
     texto = remove_line_breaks(texto)   # deja todo en una sola línea
     texto = to_lowercase(texto)
     texto = remove_accents(texto)
-    texto = remove_numbers(texto)
+    texto = handle_numbers(texto)
     texto = remove_punctuation_and_emojis(texto)
     texto = normalize_spaces(texto)
     return texto

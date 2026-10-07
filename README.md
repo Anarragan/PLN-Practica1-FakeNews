@@ -53,21 +53,5 @@ python fake_news_agent/corpus/metricas.py
 
 ---
 
-### Estado del proyecto
-
-#### Completado
-- [x] Obtener el conjunto de 50 archivos `.txt` mediante *web scraping* (si no se ha completado, cambiar `N_DOCS_PER_CLASS = 75`).
-- [x] Almacenar los archivos en dos carpetas independientes: verdadero y falso.
-- [x] Conseguir las 5000 muestras de la fuente 2 (de forma aleatoria y balanceada).
-- [x] Calcular las métricas base.
-- [x] 2. Preprocesamiento de texto (limpieza, tokenización, etc.).
-- [x] 3. Pos tagging
-- [x] 4. Entidades NER
-
-#### En proceso
-- [ ] Documentacion y ajustes adicionales
-
----
-
 ### Notas y mejoras futuras
 * **Fuente 2:** El corpus actual de 5000 muestras es sintético. Se debería sustituir o complementar con un conjunto de datos (*dataset*) verificado por humanos.
